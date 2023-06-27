@@ -138,7 +138,7 @@ Most funds have a few key individuals (known as "key persons") that drive the va
 
 ### D.O.M - DAO
 
-Pre-DAO (2020 to 2023) was an [ETX Fintech SA](https://etxfinance.technology/) experiment in distributed trading software and capital formation and distributed decision making in the allocation of the supplied capital.
+Pre-DAO project (2020 to 2023) was an [ETX Fintech SA](https://etxfinance.technology/) experiment in distributed trading software and capital formation and distributed decision making in the allocation of the supplied capital.
 
 Since firstappearing on the planet, humankind has been constantly inventing new ways to organizeand increase the scale of cooperation with more and more effective structures, from the nuclear family and tribes to states, corporations, and the global economy. The mostadvanced organization thus far, the Internet, opened the door for real-time information exchange at a worldwide scale, but it lacks the economic means for general-purpose coordination and global peer-production.
 
@@ -150,7 +150,7 @@ Sumary: DAOs are open, self-organized networks coordinated by crypto-economic in
 
 ## 2. DAO Structure
 
-![](https://i.imgur.com/MhYNmaW.png)
+![](https://daofinance.me/static/dao_structure.png)
 
 The DAO is a decentralized software stack based on the [Aragon framework](https://aragon.org) that allows capital to be securely pooled and intelligently deployed to fund crypto-networks, dapp projects, companies and trading opportunities. The underlying pool of capital will be a balanced portfolio of whitelisted assets such as USDT, USDC, DAI and other high-quality crypto-assets. The pool is to be safeguarded and managed efficiently by GUs working under strict time-limited mandates with security backstops regarding performance.
 
@@ -226,7 +226,7 @@ A Benny Switch (named after [Benedict Arnold](https://en.wikipedia.org/wiki/Bene
 
 ## 3. Capital Formation - Bonding Curve
 
-![](https://i.imgur.com/O4qSxnc.png)
+![](https://daofinance.me/static/bonding_curve.png)
 *Bonding Curve Plotted on Cartesian Coordinates, including the time step function.
 
 For any capital pool to deploy resources intelligently and deliver on a value-add portfolio, it requires sufficient assets under management AUM to cover the cost of operations and management. However, too much capital for the sizing of the market of target investments can also be an issue. As with any investment, the initial entrants into this reserve assume more risk than later entrants as the probability of success clarifies over time, especially with novel models such the one described herein. Early entrants should be rewarded for this asymmetric risk profile in support the DAO. Thus, we propose an initial capital formation period whereby early contributors receive a bonus of DAO tokens vs. subsequent contributors. The cumulative bonus should reflect the liquidity discount for off-boarding during the initial bonding curve period.
@@ -235,34 +235,22 @@ DAO requires a mechanism that allows for DAO members to off-board reasonably if 
 
 A bonding curve controls the inflation of the token supply in a way that fulfills both of these requirements.
 
-![](https://i.imgur.com/22oRU0f.png=250x) [Note: Float left to the Equations ]
-*Graph plotted on the proper Polar Coordinates*
-
-- ![r](https://user-images.githubusercontent.com/49164280/63477963-8d58ce00-c43c-11e9-9bfe-db43a0308659.png)
-- ![a](https://user-images.githubusercontent.com/49164280/63477966-9184eb80-c43c-11e9-8951-b141642e96b3.png) Bonding Curve Starting Price
-- ![c](https://user-images.githubusercontent.com/49164280/63477969-93e74580-c43c-11e9-9355-d4844dba0fe3.png)  = 1.0053611  (Growth Factor)
-- ![phi](https://user-images.githubusercontent.com/49164280/63477971-96e23600-c43c-11e9-8d74-6ed5557d771d.png)
-- ![tokenRatio](https://user-images.githubusercontent.com/49164280/63477974-98abf980-c43c-11e9-97e1-2826469ea288.png) or 1.6180339887
- - Converts Tokens into degrees
-
 ### Phase 1 - Incentivise early on-boarding of capital
 
 The initial funding period will allow for a bonus of DAO tokens to be minted in exchange for Underlying Capital tokens. This bonus period will decrease as a step function during an initial funding period thereby incentivizing early deployment. 
 
 The minting price of the token will increase at each interval after reaching a specified block height.
 
-![](https://i.imgur.com/eM29r2q.png)
-
 #### Initial Step Prices
 
-| Phase           | Step | Price |
-|-----------------|------| ----- |
-| Prelaunch       | 0    | $500  |
-| Onboarding (1)  | 500  | $1000 |
-| Onboarding (2)  | 500  | $1500 |
-| Onboarding (3)  | 500  | $2000 |
-| Onboarding (4)  | 500  | $2500 |
-| Onboarding (5)  | 500  | $3000 |
+| Phase           | Count | Price |
+|-----------------|-------| ----- |
+| Prelaunch       | 0     | $500  |
+| Onboarding (1)  | 1000  | $1000 |
+| Onboarding (2)  | 1500  | $1500 |
+| Onboarding (3)  | 2000  | $2000 |
+| Onboarding (4)  | 2500  | $2500 |
+| Onboarding (5)  | 3000  | $3000 |
 
 At the launch of the curve `a =` $19000, the Final Token Price.
 
