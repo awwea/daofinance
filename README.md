@@ -9,13 +9,16 @@ DAO Community & Friends
 Join the discussion on:
 * Telegram:
 * Whatsapp:
+* Discord:
 
 ---
 
 ## Introduction
 
 #### Traditional financial institution [Bank]
-Banks and financial institutions are some of the most centralized organizations in the world. A small group controls them, and their activities are often opaque. This centralization can make these firms susceptible to corruption, fraud, and mismanagement. Trust remains the most valued aspect of banking among consumers worldwide, according to Statista. Hence, if banks wish to remain in their customers’ good graces, they must offer more than just great rates and products. They need to rebuild the trust. Top accounting firm Ernst and Young released survey results highlighting the sweeping banking landscape changes in recent years. Consumers, for one, now place fintech on top of their 'most trusted financial services brand' list at 33%, with banks lagging far behind at 12%. Fintech is a broad category that includes any technology used to provide financial services, from mobile banking apps to online lending platforms. Banks have been slow to adopt new technologies, but the COVID-19 pandemic forced them to speed up their digital transformation to remain competitive. Technically, FinTech and banks need not be mutually exclusive. In fact, many banks are now turning to fintech solutions to address various problems. One such option is DAO, which benefits both the banks and their customers.
+Banks and financial institutions are some of the most centralized organizations in the world. A small group controls them, and their activities are often opaque. This centralization can make these firms susceptible to corruption, fraud, and mismanagement. Trust remains the most valued aspect of banking among consumers worldwide, according to Statista.
+
+Hence, if banks wish to remain in their customers good graces, they must offer more than just great rates and products. They need to rebuild the trust. Top accounting firm Ernst and Young released survey results highlighting the sweeping banking landscape changes in recent years. Consumers, for one, now place fintech on top of their 'most trusted financial services brand' list at 33%, with banks lagging far behind at 12%. Fintech is a broad category that includes any technology used to provide financial services, from mobile banking apps to online lending platforms. Banks have been slow to adopt new technologies, but the COVID-19 pandemic forced them to speed up their digital transformation to remain competitive. Technically, FinTech and banks need not be mutually exclusive. In fact, many banks are now turning to fintech solutions to address various problems. One such option is DAO, which benefits both the banks and their customers.
 
 #### Decentralized autonomous organizations (DAOs)
 Decentralized autonomous organizations, or DAOs, are digital organizations powered by decentralized technologies that operate without the need for a central authority. DAOs are built on distributed ledger technologies (DLTs) such as blockchain technology and are designed to be transQueen, secure and efficient. They offer a new way of organizing business and governance models that could potentially disrupt traditional organizations. DAOs can help banks address common problems and streamline internal workflows by moving to a blockchain-based architecture. Since DAOs embody the characteristics of blockchain-based technology such as decentralization, transparency and security, they could assist in addressing the said issues.
@@ -38,7 +41,7 @@ Automation and smart contracts help lower costs and speed up decision-making by 
 Banks today are already using blockchain technology for things like payment, clearing and settlement, trade finance, identity and syndicated loans, according to The Financial Times. However, there are still many unexplored areas in banking where a DAO-based model might be useful:
 
 * Checking & Savings Accounts
-An account at a financial institution that allows for withdrawals and deposits. Great for paying bills and keeping track of spending. A deposit account held at a bank or other financial institution that safeguards funds and provides a modest interest rate. Great for building emergency savings or saving for short or medium term goal. Issued on DAO private blockchain ensures trackability of user accoonts.
+An account at a financial institution that allows for withdrawals and deposits. Great for paying bills and keeping track of spending. A deposit account held at a bank or other financial institution that safeguards funds and provides a modest interest rate. Great for building emergency savings or saving for short or medium term goal. An account known as wallet, issued on DAO private blockchain ensures trackability of user accoonts.
 
 * Money Transfers
 A way to move money from one person to another. Often used to send money internationally. DAO private blockchain through its nature is perfect instrument for moving money with an additional security layer.
@@ -93,7 +96,7 @@ Just imagine a 'DAOs INTER EXCHANGE' (DIE) as SWIFT, the Society for Worldwide I
 
 ## Abstract
 
-The DAO is a decentralized autonomous organization designed to sustainably develop a diversified portfolio of crypto-assets and accrue value for DAO members. It will be a clean capital pool where members only perform one vote to authorize a mandate that is executed by sub-DAOs known as 'Governance Units' (GU) using the deployment framework. During the life of a mandate, Governance Units perform all the standard work that a bank or an investment fund would require to be professionally managed over time, leveraging a decentralized global community where possible and allowing authorized, competent teams to self-organize and be appropriately remunerated when they deliver value. GUs are able to distribute rewards based on coherent reputation-weighted peer-review using the SourceCred framework.
+The DAO is a decentralized autonomous organization designed to sustainably develop a diversified portfolio of crypto-assets and accrue value for DAO members. It will be a clean capital pool where members only perform one vote to authorize a mandate that is executed by sub-DAOs known as 'Governance Units' (GUs) using the deployment framework. During the life of a mandate, Governance Units perform all the standard work that a bank or an investment fund would require to be professionally managed over time, leveraging a decentralized global community where possible and allowing authorized, competent teams to self-organize and be appropriately remunerated when they deliver value. GUs are able to distribute rewards based on coherent reputation-weighted peer-review using the SourceCred framework.
 
 Individuals can join the DAO at any time by buying DAO tokens, subject to a bonding curve to maintain incentive-alignment with risk profile. Members can exit the DAO at any time by selling DAO tokens via the same mechanism, thereby offering individual liquidity while ensuring security for members. The capital pool is managed through inflation and burning mechanisms: portfolio projects receive investment as newly-minted DAO tokens, and DAO tokenholders can always burn the DAO token against the bonding curve to obtain the underlying capital (USDT, DAI, USDC etc.) less a liquidity discount. This enables the DAO token to be a 'stable' coin, collateralized by an underlying basket of high quality crypto-assets.
 
@@ -131,14 +134,15 @@ Start-up economics are especially skewed to favour the founder(s) who were prese
 VCs, especially in crypto, often are regionally strong but don't have a global footprint. However, most of the major projects in Ethereum and generally across crypto have global ambitions. Thus crypto communities require an understanding of diverse, idiosyncratic markets. An investor-partner that has a truly global footprint and is able to help portfolio projects in a range of different geographies can create more value for companies and investors than traditional VCs.
 
 **Liquidity**
-Two predominant capital pooling/allocation structures exist, each with liquidity trade-offs: evergreen hedge funds and close-ended venture funds. In the hedge fund model investors have liquidity on a few months' notice. This affects a fund operator's incentives and decisions: liquidity of underlying holdings must be maintained, and managers are often compensated on an annual basis, creating focus around the given calendar year, sacrificing long-term value creation in order to harvest short-term profits. A venture fund structure with a lock-in period of 7-10 years can be a difficult purchase decision for investors because the asset is illiquid for a long period of time. Further, there isn't any mechanism for investors to onboard after an initial period, thereby closing off venture returns to an exclusive group. There should be a mechanism whereby investors can on-board after the initial capital formation and off-board reasonably should they require liquidity. Investors that on-board late should naturally pay a premium for doing so and investors that off-board early should bear some reasonable liquidity penalty.
+Two predominant capital pooling/allocation structures exist, each with liquidity trade-offs: evergreen hedge funds and close-ended venture funds.
+In the hedge fund model investors have liquidity on a few months notice. This affects a fund operator's incentives and decisions: liquidity of underlying holdings must be maintained, and managers are often compensated on an annual basis, creating focus around the given calendar year, sacrificing long-term value creation in order to harvest short-term profits. A venture fund structure with a lock-in period of 7-10 years can be a difficult purchase decision for investors because the asset is illiquid for a long period of time. Further, there isn't any mechanism for investors to onboard after an initial period, thereby closing off venture returns to an exclusive group. There should be a mechanism whereby investors can on-board after the initial capital formation and off-board reasonably should they require liquidity. Investors that on-board late should naturally pay a premium for doing so and investors that off-board early should bear some reasonable liquidity penalty.
 
 **Social scalability**
 Most funds have a few key individuals (known as "key persons") that drive the vast majority of deal flow. However, a fund could benefit from a community or network of motivated members that drive substantially more deal-flow and contribute value-add activities to portfolio projects. A filtered community incentivized to find, assess, and support projects could increase the quality of deal flow and the reputation of the organization. Experimentation with novel social coordination tools such as [SourceCred](https://sourcecred.io/) can ensure incentives among a coherent community and thoughtful debate while ensuring information security when appropriate.
 
 ### D.O.M - DAO
 
-Pre-DAO project (2020 to 2023) was an [ETX Fintech SA](https://etxfinance.technology/) experiment in distributed trading software and capital formation and distributed decision making in the allocation of the supplied capital.
+Pre-DAO project (2020 to 2023) was an [ETX Fintech SA](https://etxfinance.technology/) experiment in distributed trading software and capital formation and distributed decision making in the allocation of the supplied capital (Trading and Liquidity Pools). A community pooled capital by depositing their tokens to deploy capital in a for-profit motive, thereby driving the value of the underlying capital pool. In retrospect, the early days of the DAO proved quite interesting as an enthusiastic decentralized community self-organized and performed due diligence on potential deals. Further, the due diligence standards and requirements that the members were establishing would have made for a much more tempered and coherent subsequent era of funding protocols than what we saw in the ICO craze circa 2017. As new regulations come into force across a number of fintech sectors, we look at the areas most likely to be affected by changes over the next 12 months. The past few months have been turbulent for fintechs. With tanking economies, falling investment interest and an extremely long crypto winter, change has become a familiar state of being. But, as the industry continues to mature, more changes are expected – this time in the form of regulations that will seek to 'stabilise and secure fintechs by building trust in the space'.
 
 Since firstappearing on the planet, humankind has been constantly inventing new ways to organizeand increase the scale of cooperation with more and more effective structures, from the nuclear family and tribes to states, corporations, and the global economy. The mostadvanced organization thus far, the Internet, opened the door for real-time information exchange at a worldwide scale, but it lacks the economic means for general-purpose coordination and global peer-production.
 
@@ -146,13 +150,13 @@ Blockchain is the second internet revolution, doing for value and business what 
 
 A DAO is a new form of scalable, self-organizing cooperation, that is operated by smart contracts on the blockchain. The Blockchain made this possible by providing areliable, open and programmable accounting system, consequently leading to the invention of the Decentralized Autonomous Organization (DAO).
 
-Sumary: DAOs are open, self-organized networks coordinated by crypto-economic incentives and self-executing code, cooperating around shared goals.
+Sumary: DAOs are open, self-organized networks coordinated by crypto-economic incentives and self-executing code, cooperating around shared goals, - in our opinion a perfect form of an organization.
 
 ## 2. DAO Structure
 
-![](https://daofinance.me/static/dao_structure.png)
+![](https://daofinance.me/static/structure.png)
 
-The DAO is a decentralized software stack based on the [Aragon framework](https://aragon.org) that allows capital to be securely pooled and intelligently deployed to fund crypto-networks, dapp projects, companies and trading opportunities. The underlying pool of capital will be a balanced portfolio of whitelisted assets such as USDT, USDC, DAI and other high-quality crypto-assets. The pool is to be safeguarded and managed efficiently by GUs working under strict time-limited mandates with security backstops regarding performance.
+The DAO is a decentralized software stack based on the [Aragon-Framework](https://aragon.org) that allows capital to be securely pooled and intelligently deployed to fund crypto-networks, dapp projects, companies and trading opportunities. The underlying pool of capital will be a balanced portfolio of whitelisted assets such as USDT, USDC, DAI and other high-quality crypto-assets. The pool is to be safeguarded and managed efficiently by GUs working under strict time-limited mandates with security backstops regarding performance.
 
 Note: While trustless cross-chain value transfer has not yet matured, over time, members would expect that the DAO will also hold off-chain assets and crypto-assets that are not native to Ethereum, BTC, etc. potentially via service from a bonded custody GU.
 
@@ -162,7 +166,7 @@ The DAO will make capital deployments based on a set of permissions set in a mul
 
 ### DAO Specification
 
-The DAO consist of a series of Governance Unit - sub-DAOs using a specific hierarchy of permissions within the Aragon framework. These DAOs are organized through assigning roles and permissions in relation to one another. We categorize the whole system as a DAO, where the highest-level DAO is called the **Queen** and the sub-DAOs are called **Governance Units**, which are technically DAOs in their own right, subject to nested permissions. In principle the Queen DAO will push any and all activities during the Mandates down to the GU level. Each DAO will require its own design process and specification, but we offer a brief illustrative overview below.
+The DAO consist of a series of Governance Unit, - sub-DAOs using a specific hierarchy of permissions within the DAO framework. These DAOs are organized through assigning roles and permissions in relation to one another. We categorize the whole system as a DAO, where the highest-level DAO is called the **Queen** and the sub-DAOs are called **Governance Units**, which are technically DAOs in their own right, subject to nested permissions. In principle the Queen DAO will push any and all activities during the Mandates down to the GU level. Each DAO will require its own design process and specification, but we offer a brief illustrative overview below.
 
 ### Queen DAO
 
@@ -170,11 +174,11 @@ The Queen DAO is ultimately responsible for the funds of DAO members, and it is 
 
 ### Chancellor
 
-A multi-sig that has the authority to execute Token transfers of the DAO tokens via inflation of the DAO token. The only members are the Treasury GU, Venture GU and Compliance GU. The Treasury GU is allowed to vote to mint tokens and transfer them while the Compliance GU will simply ensure the values are correct, but has no ability to cast a vote. 3/3 of votes are required to transfer funds. Every payment should have a time delay before execution (e.g., 10 days) to allow for an appeals process within the Venture GU.
+A Multi-Sig that has the authority to execute token transfers of the DAO tokens via inflation of the DAO token. The only members are Treasury GU, Venture GU and Compliance GU. Treasury GU is allowed to vote to mint tokens and transfer them while the Compliance GU will simply ensure the values are correct, but has no ability to cast a vote. All 3/3 of votes are required to transfer funds. Every payment should have a time delay before execution (e.g. 10 days) to allow for an appeals process within the Venture GU.
 
 ### Treasury - Governance Unit
 
-Responsible for managing the underlying capital of the DAO, specifically rebalancing the portfolio of underlying capital and executing inflation-based payments. This would be a bonded GU (i.e., it posts a collateralized position vs the current Mandate's capital) that would have specific permissions concerning the maintenance of portfolio balance, co-signing for capital deployments in deals proposed by the Venture GU, and other management of liquid tokens such as third party custody of certain assets.
+Responsible for managing the underlying capital of the DAO, specifically rebalancing the portfolio of underlying capital and executing inflation-based payments. This would be a bonded GU (i.e. it posts a collateralized position vs the current Mandate's capital) that would have specific permissions concerning the maintenance of portfolio balance, co-signing for capital deployments in deals proposed by the Venture GU, and other management of liquid tokens such as third party custody of certain assets.
 
 ### Venture - Governance Unit
 
@@ -184,7 +188,8 @@ The Venture GU would be the team that is responsible for sourcing deal flow and 
 
 Responsible for ensuring Chancellor votes are accurate, the Venture GU and Treasury GU are within their expected permissions and the capital deployment in question is in line with the principles of DAO. Compliance GU will also be responsible for white listing mandate proposals together with Aragon Court after the original mandate. This would be the third signature in the multi-sig to deploy capital during the mandate.
 
-***Note on Compliance***: Questions are naturally raised about the compliance of the DAO and potential classification of the token as a security by the SEC in the USA. We note that making a provision for a team to work with regulators towards agreeable solutions is a substantially more significant effort at compliance than what the industry has seen from DAOs before. Given that the DAO token is merely a basket of tokens that are already not considered securities, both the launch of the DAO network and token issuance are:
+***Note on Compliance***:
+Questions are naturally raised about the compliance of the DAO and potential classification of the token as a security by the SEC in the USA and its homologous structure in Europe. We note that making a provision for a team to work with regulators towards agreeable solutions is a substantially more significant effort at compliance than what the industry has seen from DAOs before. Given that the DAO token is merely a basket of tokens that are already not considered securities, both the launch of the DAO network and token issuance are:
 
 a) executed with sufficient level of decentralization as according to the [SEC](https://www.sec.gov/news/speech/speech-hinman-061418),
 b) not a common enterprise or expectation of profits from the work of others because the GUs don't yet exist nor are formed, and
@@ -194,7 +199,7 @@ c) the inflation mechanism amounts to a payment token under Swiss FINMA regulati
 
 This GU would be responsible for due diligence of potential acquisitions, development of software for coordinating between the GUs and value-add services for portfolio projects in which the Development GU would be naturally remunerated for.
 
-### Oracle - Governance Unit
+### Oracle
 
 Initially, an Oracle will be required by the DAO for relevant price feeds and striking NAV, especially considering future illiquid assets. This oracle would also be bonded and there is a range of decentralized oracle providers now available such as [Chainlink](https://chain.link) that could potentially provide this service today with minimal integration available to Aragon DAOs.
 
@@ -226,8 +231,7 @@ A Benny Switch (named after [Benedict Arnold](https://en.wikipedia.org/wiki/Bene
 
 ## 3. Capital Formation - Bonding Curve
 
-![](https://daofinance.me/static/bonding_curve.png)
-*Bonding Curve Plotted on Cartesian Coordinates, including the time step function.
+![](https://daofinance.me/static/curve.png)
 
 For any capital pool to deploy resources intelligently and deliver on a value-add portfolio, it requires sufficient assets under management AUM to cover the cost of operations and management. However, too much capital for the sizing of the market of target investments can also be an issue. As with any investment, the initial entrants into this reserve assume more risk than later entrants as the probability of success clarifies over time, especially with novel models such the one described herein. Early entrants should be rewarded for this asymmetric risk profile in support the DAO. Thus, we propose an initial capital formation period whereby early contributors receive a bonus of DAO tokens vs. subsequent contributors. The cumulative bonus should reflect the liquidity discount for off-boarding during the initial bonding curve period.
 
@@ -239,9 +243,9 @@ A bonding curve controls the inflation of the token supply in a way that fulfill
 
 The initial funding period will allow for a bonus of DAO tokens to be minted in exchange for Underlying Capital tokens. This bonus period will decrease as a step function during an initial funding period thereby incentivizing early deployment. 
 
-The minting price of the token will increase at each interval after reaching a specified block height.
+The minting price of the token will increase at each interval of fixed 500 tokens.
 
-#### Initial Step Prices
+#### Step Prices
 
 | Phase           | Count | Price |
 |-----------------|-------| ----- |
@@ -293,7 +297,7 @@ Past a group of 5-7 (known as a “two pizza” team) it can be difficult to coo
 
 Through the use of SourceCred individual members of the community can earn reputation, as defined by the community and specifically community leaders, and be compensated for the value they bring into the system. Over time this lowers the barrier of entry into the community and encourages high quality work fulfilling the mission of the DAO. Most importantly, this fosters a culture whereby GUs and the individuals who comprise them have an understanding that if they deliver great value, they will be adequately compensated for their contributions. 
 
-## DAO Token
+## DAO Governance Token
 DAO tokens will be issued to GUs for services, projects as medium of investment and members in exchange for Underlying Capital. They confer governance rights to decide mandates and ultimately guide the direction of DAO and can be used for staking in the Aragon Court assembly of the Original Guild as well as staking for conflict resolution. The DAO token is issued when a deployment is confirmed by the Chancellor multi-sig between Venture GU, Treasury GU and Compliance GU and the DAO token is considered a basket of the underlying assets of the capital pool via bullet inflation. That is that the Treasury DAO can inflate DAO tokens subject to the permissions of the given mandate and thusly balance the portfolio.
 
 ### Stable Coin
