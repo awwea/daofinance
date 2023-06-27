@@ -6,8 +6,9 @@
 **Authors**
 DAO Community & Friends
 
-Join the discussion on
-    * Telegram: 
+Join the discussion on:
+* Telegram:
+* Whatsapp:
 
 ---
 
