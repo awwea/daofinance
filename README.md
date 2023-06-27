@@ -320,3 +320,16 @@ Schemes are logical functions made of a series of instructions that take a parti
 Herein we present a framework and set of incentivization mechanisms to drive value creation among decentralized P2P actors in a for-profit capital pool. It is understood that there are numerous crypto economic and security mechanisms to elaborate and evolve before deploying this set of smart contracts.
 
 However, we find the dream of a sustainable decentralized organization that attracts and filters for great talent, supports genuine innovation and meaningful experimentation, and delivers outlier value to its members to have such high potential that we are compelled to forge ahead with research because this is the most interesting project we can imagine.
+
+## Disclaimers
+This paper is not intended to constitute an offer to sell, or solicitation of an offer to buy, any securities. Any and all securities referred to herein have not been registered under the securities law of any state, as amended, or under applicable state or foreign securities laws. Neither the securities and exchange commission nor any state or foreign securities commission has passed upon the accuracy or adequacy of the contents hereof. 
+
+No representation, warranty or assurance is made regarding the accuracy of the information contained herein, and it is not intended to be relied upon by any person. the information contained herein may not reflect subsequent developments. nothing set forth herein is intended to be legal, tax or financial advice to any person. 
+
+The forward-looking statements in this paper are subject to numerous assumptions, risks and uncertainties which are subject to change over time. There are many risk factors, including those relating to blockchain and cryptographic technology generally, as well DAO's business, operations and results of operations, that could cause actual results or developments anticipated by us not to be realized in whole or in part or, even if substantially realized, to fail to achieve any or all of the benefits that could be expected therefrom.
+
+DAO reserves the right to change the plans, expectations and intentions stated herein at any time and for any reason, in our sole and absolute discretion, and except as may be otherwise required by applicable law, we undertake no obligation to update publicly or revise any forward-looking statement, whether as a result of new information, future developments or otherwise. Accordingly, we recommend that you do not rely on, and do not make any financial decision or investment based on, the statements contained in this paper
+
+---
+
+Including but not limited to any selling or trading of ether or any other cryptographic or blockchain token, or the securities of any company or other organization or group.
