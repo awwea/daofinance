@@ -156,7 +156,7 @@ Sumary: DAOs are open, self-organized networks coordinated by crypto-economic in
 
 ## DAO Structure
 
-![](https://daofinance.me/static/structure.png)
+![](https://daofinance.me/files/structure.png)
 
 The DAO is a decentralized software stack based on the [Framework Builder] that allows capital to be securely pooled and intelligently deployed to fund crypto-networks, dapp projects, companies and trading opportunities. The underlying pool of capital will be a balanced portfolio of whitelisted assets such as USDT, USDC, DAI and other high-quality crypto-assets. The pool is to be safeguarded and managed efficiently by GUs working under strict time-limited mandates with security backstops regarding performance.
 
@@ -233,7 +233,7 @@ A Benny Switch (named after [Benedict Arnold](https://en.wikipedia.org/wiki/Bene
 
 ## Capital Formation
 
-![](https://daofinance.me/static/curve.png)
+![](https://daofinance.me/files/curve.png)
 
 For any capital pool to deploy resources intelligently and deliver on a value-add portfolio, it requires sufficient assets under management AUM to cover the cost of operations and management. However, too much capital for the sizing of the market of target investments can also be an issue. As with any investment, the initial entrants into this reserve assume more risk than later entrants as the probability of success clarifies over time, especially with novel models such the one described herein. Early entrants should be rewarded for this asymmetric risk profile in support the DAO. Thus, we propose an initial capital formation period whereby early contributors receive a bonus of DAO tokens vs. subsequent contributors. The cumulative bonus should reflect the liquidity discount for off-boarding during the initial bonding curve period.
 
