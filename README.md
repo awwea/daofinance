@@ -142,7 +142,7 @@ In the hedge fund model investors have liquidity on a few months notice. This af
 **Social scalability**
 Most funds have a few key individuals (known as "key persons") that drive the vast majority of deal flow. However, a fund could benefit from a community or network of motivated members that drive substantially more deal-flow and contribute value-add activities to portfolio projects. A filtered community incentivized to find, assess, and support projects could increase the quality of deal flow and the reputation of the organization. Experimentation with novel social coordination tools such as [SourceCred](https://sourcecred.io/) can ensure incentives among a coherent community and thoughtful debate while ensuring information security when appropriate.
 
-### D.O.M - DAO
+### D.O.M
 
 Pre-DAO project (2020 to 2023) was an [ETX Fintech SA](https://etxfinance.technology/) experiment in distributed trading software and capital formation and distributed decision making in the allocation of the supplied capital (Trading and Liquidity Pools). A community pooled capital by depositing their tokens to deploy capital in a for-profit motive, thereby driving the value of the underlying capital pool. In retrospect, the early days of the DAO proved quite interesting as an enthusiastic decentralized community self-organized and performed due diligence on potential deals. Further, the due diligence standards and requirements that the members were establishing would have made for a much more tempered and coherent subsequent era of funding protocols than what we saw in the ICO craze circa 2017. As new regulations come into force across a number of fintech sectors, we look at the areas most likely to be affected by changes over the next 12 months. The past few months have been turbulent for fintechs. With tanking economies, falling investment interest and an extremely long crypto winter, change has become a familiar state of being. But, as the industry continues to mature, more changes are expected – this time in the form of regulations that will seek to 'stabilise and secure fintechs by building trust in the space'.
 
@@ -154,7 +154,7 @@ A DAO is a new form of scalable, self-organizing cooperation, that is operated b
 
 Sumary: DAOs are open, self-organized networks coordinated by crypto-economic incentives and self-executing code, cooperating around shared goals, - in our opinion a perfect form of an organization.
 
-## 2. DAO Structure
+## DAO Structure
 
 ![](https://daofinance.me/static/structure.png)
 
@@ -209,7 +209,7 @@ Initially, an Oracle will be required by the DAO for relevant price feeds and st
 
 During the first mandate the Original Guild (OG) operates like a proxy using Framework Builder Court for whitelisting the original proposals. The OG has pseudo-privileges over other GUs, meaning they should be able to freeze a DAO to prevent any rogue behaviour. These activities can be executed by the Framework Builder Court while ensuring appropriate decentralization in the launch and execution of the DAO. The Queen DAO has similar privileges over the OG so that the Queen DAO can freeze the OG DAO in the case of rogue behaviour. After the original mandate, the OG will be dissolved and whitelisting future mandate proposals will be executed by Framework Builder Court in concert with the Compliance GU.
 
-## Mandates & Proposals
+### Mandates & Proposals
 
 A mandate is:
 
@@ -231,7 +231,7 @@ Any group can conceivably self-organize into a GU and make a proposal to the DAO
 ### Benny Switch
 A Benny Switch (named after [Benedict Arnold](https://en.wikipedia.org/wiki/Benedict_Arnold)) is a way for DAO members to remove the permissions of a malicious GU or group of GUs under emergency conditions or an attack. The Benny Switch engages if a minimum quorum of DAO members signal with their tokens that a Benny Switch vote is necessary. Then a subsequent vote occurs whereby a minimum quorum votes in favour of either removing a specific GU's permissions or ending the entire Mandate immediately. Given the issues with achieving minimum quorum in related crypto-networks with on-chain governance in the past, we would propose adaptive quorum biasing whereby the minimum quorum necessary changes based on voter turnout.
 
-## 3. Capital Formation - Bonding Curve
+## Capital Formation
 
 ![](https://daofinance.me/static/curve.png)
 
@@ -241,7 +241,7 @@ DAO requires a mechanism that allows for DAO members to off-board reasonably if 
 
 A bonding curve controls the inflation of the token supply in a way that fulfills both of these requirements.
 
-### Phase 1 - Incentivise early on-boarding of capital
+### Incentivise early on-boarding of capital
 
 The initial funding period will allow for a bonus of DAO tokens to be minted in exchange for Underlying Capital tokens. This bonus period will decrease as a step function during an initial funding period thereby incentivizing early deployment. 
 
@@ -293,13 +293,13 @@ Central to the value proposition of Venture GU is leveraging the community for b
 
 One solution could be a tiered structure where the ultimate investment ultimate responsibility for decision making is held by a small core team, but community members are rewarded for providing information, leads and work on behalf of all token holders. This reward can be for direct value-add to the portfolio companies or through vetting potential investments increasing the surface area of deal flow available to the core team, using SourceCred for reputation-weighted peer review.
 
-## SourceCred
+### SourceCred
 
 Past a group of 5-7 (known as a “two pizza” team) it can be difficult to coordinate and evaluate individual contributions, especially in teams that are distributed globally. [SourceCred](https://sourcecred.io) provides a toolbox to have reputation-weighted peer review of distributed teams and communities. SourceCred runs a modified version of PageRank on a contribution graph to produce a cred attribution. The weights within the system are highly configurable to match the needs of the community and one would expect that each GU will organize its SourceCred algorithms accordingly depending on the parameters of that working group and the nature of their mandate.
 
 Through the use of SourceCred individual members of the community can earn reputation, as defined by the community and specifically community leaders, and be compensated for the value they bring into the system. Over time this lowers the barrier of entry into the community and encourages high quality work fulfilling the mission of the DAO. Most importantly, this fosters a culture whereby GUs and the individuals who comprise them have an understanding that if they deliver great value, they will be adequately compensated for their contributions. 
 
-## DAO Governance Token
+### DAO Governance Token
 DAO tokens will be issued to GUs for services, projects as medium of investment and members in exchange for Underlying Capital. They confer governance rights to decide mandates and ultimately guide the direction of DAO and can be used for staking in the Framework Builder Court assembly of the Original Guild as well as staking for conflict resolution. The DAO token is issued when a deployment is confirmed by the Chancellor multi-sig between Venture GU, Treasury GU and Compliance GU and the DAO token is considered a basket of the underlying assets of the capital pool via bullet inflation. That is that the Treasury DAO can inflate DAO tokens subject to the permissions of the given mandate and thusly balance the portfolio.
 
 ### Stable Coin
@@ -309,14 +309,6 @@ The DAO token will be redeemable for the underlying liquid assets that it repres
 
 ## Scalability
 The one common factor of all legacy organizations is that they are “sub-scalable”. Which means that they become less and less effective as they grow in the number of members and number of decisions they need to make. Free markets, the Internet and network-effect based applications (such as Facebook and Airbnb) are all “super-scalable” structures — that become more effective as they grow in membersand interactions. With this terminology, the DAO is a “super-scalable organization”, thatassimilates the efficiency, agility and scalability of free markets, while maintaining the coherence of a startup and the ability to pursue scalable missions.
-
-## Schemes
-Schemes are logical functions made of a series of instructions that take a particular set of inputs, and process them to generatea particular set of outputs. Schemes can be designed to do virtually anything, although most of them will trigger one of the basic functionalities of a GU, such as token and fund allocation, reputation assignment and protocol upgrade. Common schemes are based on proposals — the proposition to trigger some of the basic actions of an GU in a particular way. These will then be voted on with yes or no and be possibly approved, resulting in the automatic execution of the proposal. For example, a simple rewarding scheme in a DAO can be as follows:
-
-1. An member submits a proposal to the DAO to reward 150 tokens and 200 reputation bits to another member for contribution made to the DAO.
-2. Anyone can vote yes or no on this proposal, to be weighted by their DAO reputation score.
-3. Once a majority of the DAO reputation holders vote yes, the DAO's operating system executes the proposal and allocates 150 tokens and 200 reps to the contributing member. Note that this member can also be yet another GU. Similarly, when looking back at the Fundis example above, it had three rules, which could be written as three distinct schemes. Thus, the entire governance system of Fundis is describable via those three elements.
-
 
 ## Conclusions
 Herein we present a framework and set of incentivization mechanisms to drive value creation among decentralized P2P actors in a for-profit capital pool. It is understood that there are numerous crypto economic and security mechanisms to elaborate and evolve before deploying this set of smart contracts.
@@ -330,4 +322,4 @@ No representation, warranty or assurance is made regarding the accuracy of the i
 
 The forward-looking statements in this paper are subject to numerous assumptions, risks and uncertainties which are subject to change over time. There are many risk factors, including those relating to blockchain and cryptographic technology generally, as well DAO's business, operations and results of operations, that could cause actual results or developments anticipated by us not to be realized in whole or in part or, even if substantially realized, to fail to achieve any or all of the benefits that could be expected therefrom.
 
-DAO reserves the right to change the plans, expectations and intentions stated herein at any time and for any reason, in our sole and absolute discretion, and except as may be otherwise required by applicable law, we undertake no obligation to update publicly or revise any forward-looking statement, whether as a result of new information, future developments or otherwise. Accordingly, we recommend that you do not rely on, and do not make any financial decision or investment based on, the statements contained in this paper including but not limited to any selling or trading of ether or any other cryptographic or blockchain token, or the securities of any company or other organization or group.
+We reserve the right to change the plans, expectations and intentions stated herein at any time and for any reason, in our sole and absolute discretion, and except as may be otherwise required by applicable law, we undertake no obligation to update publicly or revise any forward-looking statement, whether as a result of new information, future developments or otherwise. Accordingly, we recommend that you do not rely on, and do not make any financial decision or investment based on, the statements contained in this paper including but not limited to any selling or trading of ether or any other cryptographic or blockchain token, or the securities of any company or other organization or group.
