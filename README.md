@@ -3,9 +3,10 @@
 
 #### Banking as DAO - A next-generation decentralized organization that coordinates the resources of a community (human and capital) to sustainably deliver value for its members.
 
-**Authors**
-DAO Community & Friends
+DAO Smart Contract: 
+DAO Private Chain:
 
+Authors: Community & Friends
 Join the discussion on:
 * Telegram:
 * Whatsapp:
@@ -15,7 +16,7 @@ Join the discussion on:
 
 ## Introduction
 
-#### Traditional financial institution [Bank]
+#### Traditional financial institutions [Bank]
 Banks and financial institutions are some of the most centralized organizations in the world. A small group controls them, and their activities are often opaque. This centralization can make these firms susceptible to corruption, fraud, and mismanagement. Trust remains the most valued aspect of banking among consumers worldwide, according to Statista.
 
 Hence, if banks wish to remain in their customers good graces, they must offer more than just great rates and products. They need to rebuild the trust. Top accounting firm Ernst and Young released survey results highlighting the sweeping banking landscape changes in recent years. Consumers, for one, now place fintech on top of their 'most trusted financial services brand' list at 33%, with banks lagging far behind at 12%. Fintech is a broad category that includes any technology used to provide financial services, from mobile banking apps to online lending platforms. Banks have been slow to adopt new technologies, but the COVID-19 pandemic forced them to speed up their digital transformation to remain competitive. Technically, FinTech and banks need not be mutually exclusive. In fact, many banks are now turning to fintech solutions to address various problems. One such option is DAO, which benefits both the banks and their customers.
@@ -81,14 +82,14 @@ The use of tokens will also give investors the right to decide on the DAO's oper
 
 The adoption of DAOs in banking and financial institutions will profoundly impact the way these organizations are managed. DAOs can help rebuild customer trust in banks, especially in an increasingly digital age where customer expectations have changed. Applying DAO governance models in banks may just be what the industry needs to bridge the gap between fintech and established financial institutions.
 
-#### Global DAO banking network
+#### Network of DAOs (DIE)
 Imagining a DAO-based global banking network may seem far-fetched at the moment, but not impossible.
 
 If blockchain technology is widely adopted within the financial industry, it is not hard to imagine a future in which banks are run as DAOs. In such a scenario, bank management would be decentralized, with power vested in the hands of the network's members.
 
 Furthermore, the adoption of DAOs will likely result in a more equitable distribution of power within banks and financial institutions. It could lead to a more democratic form of governance, one that can better meet the needs of all stakeholders, including customers, employees and shareholders.
 
-A global banking DAO would also mean transparency across the board, lower fees and increased public access to financial services. Until then, what remains to be seen is how quickly these organizations will embrace this new model of governance.
+A global banking would also mean transparency across the board, lower fees and increased public access to financial services. Until then, what remains to be seen is how quickly these organizations will embrace this new model of governance.
 
 Just imagine a 'DAOs INTER EXCHANGE' (DIE) as SWIFT, the Society for Worldwide Interbank Financial Telecommunications (SWIFT). This system powers most international money and security transfers. SWIFT is a vast messaging network used by financial institutions to quickly, accurately, and securely send and receive information, such as money transfer instructions.
 
@@ -104,7 +105,7 @@ Individuals can join the DAO at any time by buying DAO tokens, subject to a bond
 
 ## Principles
 
-As with any organization that is ['built to last'](http://www.wikisummaries.org/wiki/Built_to_Last), the DAO sets forth a set of inalienable principles that guides overall strategy along with the individual activities of members and related GUs.
+As with any organization that is [built to last](http://www.wikisummaries.org/wiki/Built_to_Last), the DAO sets forth a set of inalienable principles that guides overall strategy along with the individual activities of its members and related GUs.
 
 ### Clean distributed capital pool open to all
 
