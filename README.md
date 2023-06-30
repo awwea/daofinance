@@ -3,11 +3,14 @@
 
 #### Banking as DAO - A next-generation decentralized organization that coordinates the resources of a community (human and capital) to sustainably deliver value for its members.
 
-DAO Smart Contract: 
+DAO Smart Contract:
+
 DAO Private Chain:
 
 Authors: Community & Friends
+
 Join the discussion on:
+
 * Telegram:
 * Whatsapp:
 * Discord:
