@@ -5,7 +5,7 @@
 
 DAO Website: https://daofinance.me
 
-DAO Smart Contract:
+DAO Smart Contract: https://polygonscan.com/address/0xb61188f1fc557a4aa8766d9f2138432443f2afb1
 
 DAO Private Chain:
 
