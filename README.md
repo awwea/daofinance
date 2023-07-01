@@ -9,7 +9,7 @@ DAO Contract: https://polygonscan.com/address/0xb61188f1fc557a4aa8766d9f21384324
 
 Governance Token: https://polygonscan.com/token/0x984a717ec59eea2b8cd800d4b80b828f1dadcf26
 
-DAO Private Chain: https://daofinance.me
+DAO Private Chain: https://domscan.daofinance.me
 
 Authors: Community & Friends
 
