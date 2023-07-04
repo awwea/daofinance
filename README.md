@@ -281,7 +281,7 @@ One can imagine a scenario where the treasury holds 100 Million and 10%, or 10 m
 
 If individuals continue to sell, liquid assets are exchanged to provide liquidity for redemptions. This, in turn, increases the Liquidity Discount as the inverse of the Liquidity Ratio.
 
-![](https://i.imgur.com/fB74NMo.png)
+![](https://daofinance.me/files/liquidity_discount.png)
 
 
 ### Community
