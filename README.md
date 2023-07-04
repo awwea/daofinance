@@ -238,7 +238,7 @@ A bonding curve controls the inflation of the token supply in a way that fulfill
 ### Incentivise early on-boarding of capital
 The initial funding period will allow for a bonus of DAO tokens to be minted in exchange for Underlying Capital tokens. This bonus period will decrease as a step function during an initial funding period thereby incentivizing early deployment. 
 
-The minting price of the token will increase at each interval of fixed 500 tokens.
+The minting price of the token will increase at each interval of fixed 500 tokens. DAO's OG may change the amplitude of the price respectivly in the onboarding phase.
 
 #### 500 Step Prices
 | Phase           | Count | Price |
@@ -249,8 +249,6 @@ The minting price of the token will increase at each interval of fixed 500 token
 | Onboarding (3)  | 2000  | $2000 |
 | Onboarding (4)  | 2500  | $2500 |
 | Onboarding (5)  | 3000  | $3000 |
-
-At the launch of the curve `a =` $17,000.00 the final token price.
 
 The onboarding-phase is a long enough period to allow for awareness to build widespread global participation, and short enough to add value to early participants.
 
