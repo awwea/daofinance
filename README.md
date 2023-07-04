@@ -240,7 +240,7 @@ The initial funding period will allow for a bonus of DAO tokens to be minted in 
 
 The minting price of the token will increase at each interval of fixed 500 tokens.
 
-#### Step Prices
+#### 500 Step Prices
 | Phase           | Count | Price |
 |-----------------|-------| ----- |
 | Prelaunch       | 0     | $500  |
@@ -250,7 +250,7 @@ The minting price of the token will increase at each interval of fixed 500 token
 | Onboarding (4)  | 2500  | $2500 |
 | Onboarding (5)  | 3000  | $3000 |
 
-At the launch of the curve `a =` $19000, the Final Token Price.
+At the launch of the curve `a =` $17,000.00 the final token price.
 
 The onboarding-phase is a long enough period to allow for awareness to build widespread global participation, and short enough to add value to early participants.
 
