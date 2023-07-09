@@ -7,11 +7,12 @@
 
 DAO Website: https://daofinance.me
 
-DAO contract address: https://polygonscan.com/address/0xb61188f1fc557a4aa8766d9f2138432443f2afb1
+DAO Contract: https://polygonscan.com/address/0xb61188f1fc557a4aa8766d9f2138432443f2afb1
 
-Governance token address: https://polygonscan.com/token/0x984a717ec59eea2b8cd800d4b80b828f1dadcf26
+DAO Governance Token: https://polygonscan.com/token/0x984a717ec59eea2b8cd800d4b80b828f1dadcf26
 
 DAO Private Chain: https://daofinance.me
+
 
 Authors: Community & Friends
 
