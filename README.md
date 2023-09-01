@@ -1,5 +1,5 @@
 
-# D.O.M
+# DAOFINANCE
 
 #### Banking as DAO - A next-generation decentralized organization that coordinates the resources of a community (human and capital) to sustainably deliver value for its members. Every investment DAO would follow a specific general principle or goal, chosen and regulated by DAO itself.
 
