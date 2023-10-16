@@ -11,7 +11,7 @@ DAO Contract: https://polygonscan.com/address/0xb61188f1fc557a4aa8766d9f21384324
 
 DAO Governance Token: https://polygonscan.com/token/0x984a717ec59eea2b8cd800d4b80b828f1dadcf26
 
-DAO Private Chain: https://daofinance.me
+DAO Private Chain: https://scan.daofinance.me
 
 
 Authors: Community & Friends
@@ -92,7 +92,7 @@ The use of tokens will also give investors the right to decide on the DAO's oper
 
 The adoption of DAOs in banking and financial institutions will profoundly impact the way these organizations are managed. DAOs can help rebuild customer trust in banks, especially in an increasingly digital age where customer expectations have changed. Applying DAO governance models in banks may just be what the industry needs to bridge the gap between fintech and established financial institutions.
 
-#### Network of DAOs (DIE)
+#### Network of DAOs (DAONET)
 Imagining a DAO-based global banking network may seem far-fetched at the moment, but not impossible.
 
 If blockchain technology is widely adopted within the financial industry, it is not hard to imagine a future in which banks are run as DAOs. In such a scenario, bank management would be decentralized, with power vested in the hands of the network's members.
@@ -101,7 +101,7 @@ Furthermore, the adoption of DAOs will likely result in a more equitable distrib
 
 Global banking would also mean transparency across the board, lower fees, and increased public access to financial services. Until then, what remains to be seen is how quickly these organizations will embrace this new model of governance.
 
-Just imagine a 'DAOs INTER EXCHANGE' (DIE) as SWIFT, the Society for Worldwide Interbank Financial Telecommunications. This system powers most international money and security transfers. SWIFT is a vast messaging network used by financial institutions to quickly, accurately, and securely send and receive information, such as money transfer instructions.
+Just imagine a 'DAOs INTER EXCHANGE NETWORK' (DAONET) as SWIFT, the Society for Worldwide Interbank Financial Telecommunications. This system powers most international money and security transfers. SWIFT is a vast messaging network used by financial institutions to quickly, accurately, and securely send and receive information, such as money transfer instructions.
 
 
 ## Abstract
@@ -164,7 +164,7 @@ Summary: *DAOs are open, self-organized networks coordinated by crypto-economic 
 
 ![](https://daofinance.me/files/structure.png)
 
-DAO is a decentralized software stack based on the [Framework Builder] that allows capital to be securely pooled and intelligently deployed to fund crypto-networks, dApp projects, companies, and trading opportunities. The underlying pool of capital will be a balanced portfolio of whitelisted assets such as USDT, USDC, DAI, and other high-quality crypto assets. The pool is to be safeguarded and managed efficiently by GUs working under strict time-limited mandates with security backstops regarding performance.
+DAO is a decentralized software stack based on the [DAO FINANCE - Framework Builder] that allows capital to be securely pooled and intelligently deployed to fund crypto-networks, dApp projects, companies, and trading opportunities. The underlying pool of capital will be a balanced portfolio of whitelisted assets such as USDT, USDC, DAI, and other high-quality crypto assets. The pool is to be safeguarded and managed efficiently by GUs working under strict time-limited mandates with security backstops regarding performance.
 
 Note: While trustless cross-chain value transfer has not yet matured, over time, members would expect that the DAO will also hold off-chain assets and crypto-assets that are not native to Ethereum, BTC, etc. potentially via service from a bonded custody GU.
 
@@ -294,7 +294,7 @@ Past a group of 5-7 (known as a “two pizza” team) it can be difficult to coo
 DAO tokens will be issued to GUs for services, projects as a medium of investment, and members in exchange for Underlying Capital. They confer governance rights to decide mandates and ultimately guide the direction of DAO and can be used for staking in the Framework Builder Court assembly of the Original Guild as well as staking for conflict resolution. The DAO token is issued when a deployment is confirmed by the Chancellor multi-sig between Venture GU, Treasury GU, and Compliance GU, and the DAO token is considered a basket of the underlying assets of the capital pool via bullet inflation. That is that the Treasury DAO can inflate DAO tokens subject to the permissions of the given mandate and thusly balance the portfolio. Only 25k of the Governance Tokens will be created for the DAO start-up.
 
 ### DAO Token == Stable Coin
-The DAO token will be redeemable for the underlying liquid assets that it represents. For example, if the underlying capital pool is 1/3 ETH, 1/3 BTC, and 1/3 a basket of other tokens without any private assets held, then the DAO token can be burned in exchange for those assets less a small liquidity penalty corresponding to the size of the current mandate. This makes the DAO token a basket crypto-currency which should allow it to be somewhat more stable than any of the individual crypto-assets in underlying capital while still being a long-crypto asset. Such a mechanism is sometimes known as a 'Stable Coin'. Potentially, a [SET](https://www.setprotocol.com) could be deployed in support of this corporate currency backed by a basket of cryptocurrencies.
+The DAO token will be redeemable for the underlying liquid assets that it represents. For example, if the underlying capital pool is 1/3 ETH, 1/3 BTC, and 1/3 a basket of other tokens without any private assets held, then the DAO token can be burned in exchange for those assets less a small liquidity penalty corresponding to the size of the current mandate. This makes the DAO token a basket crypto-currency which should allow it to be somewhat more stable than any of the individual crypto-assets in underlying capital while still being a long-crypto asset. Such a mechanism is sometimes known as a 'Stablecoin'. Potentially, a [SET](https://www.setprotocol.com) could be deployed in support of this corporate currency backed by a basket of cryptocurrencies.
 
 ### Scalability
 The one common factor of all legacy organizations is that they are “sub-scalable”. This means that they become less and less effective as they grow in the number of members and a number of decisions they need to make. Free markets, the Internet, and network-effect-based applications (such as Facebook and Airbnb) are all “super-scalable” structures — that become more effective as they grow in members and interactions. With this terminology, the DAO is a “super-scalable organization”, that assimilates the efficiency, agility, and scalability of free markets while maintaining the coherence of a startup and the ability to pursue scalable missions.
