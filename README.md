@@ -1,18 +1,18 @@
 
-# DAOFINANCE
+# DAO.FINANCE
 
-#### Banking as DAO - A next-generation decentralized organization that coordinates the resources of a community (human and capital) to sustainably deliver value for its members. Every investment DAO would follow a specific general principle or goal, chosen and regulated by DAO itself.
+#### Banking as DAO - A next-generation decentralized organization that coordinates the resources of a community (human and capital) to sustainably deliver value for its members. Every investment DAO would follow a specific general principle or goal, chosen and regulated by DAO itself. This is a compressive framework and set of rules for building and maintaining a financial institution (Investment fund, real estate fund, bank, etc.)
 
 ---
 
-DAO Website: https://daofinance.me
+Website: https://daofinance.me
 
+Private Chain: https://scan.daofinance.me
+
+<!--
 DAO Contract: https://polygonscan.com/address/0xb61188f1fc557a4aa8766d9f2138432443f2afb1
-
 DAO Governance Token: https://polygonscan.com/token/0x984a717ec59eea2b8cd800d4b80b828f1dadcf26
-
-DAO Private Chain: https://scan.daofinance.me
-
+-->
 
 Authors: Community & Friends
 
@@ -291,14 +291,14 @@ Central to the value proposition of Venture GU is leveraging the community for b
 Past a group of 5-7 (known as a “two pizza” team) it can be difficult to coordinate and evaluate individual contributions, especially in teams that are distributed globally. [SourceCred](https://sourcecred.io) provides a toolbox to have reputation-weighted peer reviews of distributed teams and communities. SourceCred runs a modified version of PageRank on a contribution graph to produce a cred attribution. The weights within the system are highly configurable to match the needs of the community and one would expect that each GU will organize its SourceCred algorithms accordingly depending on the parameters of that working group and the nature of their mandate. Through the use of SourceCred individual members of the community can earn a reputation, as defined by the community and specifically community leaders, and be compensated for the value they bring into the system. Over time this lowers the barrier of entry into the community and encourages high-quality work fulfilling the mission of the DAO. Most importantly, this fosters a culture whereby GUs and the individuals who comprise them have an understanding that if they deliver great value, they will be adequately compensated for their contributions. 
 
 ### DAO Governance Token
-DAO tokens will be issued to GUs for services, projects as a medium of investment, and members in exchange for Underlying Capital. They confer governance rights to decide mandates and ultimately guide the direction of DAO and can be used for staking in the Framework Builder Court assembly of the Original Guild as well as staking for conflict resolution. The DAO token is issued when a deployment is confirmed by the Chancellor multi-sig between Venture GU, Treasury GU, and Compliance GU, and the DAO token is considered a basket of the underlying assets of the capital pool via bullet inflation. That is that the Treasury DAO can inflate DAO tokens subject to the permissions of the given mandate and thusly balance the portfolio. Only 25k of the Governance Tokens will be created for the DAO start-up.
+DAO tokens will be issued to GUs for services, projects as a medium of investment, and members in exchange for Underlying Capital. They confer governance rights to decide mandates and ultimately guide the direction of DAO and can be used for staking in the Framework Builder Court assembly of the Original Guild as well as staking for conflict resolution. The DAO token is issued when a deployment is confirmed by the Chancellor multi-sig between Venture GU, Treasury GU, and Compliance GU, and the DAO token is considered a basket of the underlying assets of the capital pool via bullet inflation. That is that the Treasury DAO can inflate DAO tokens subject to the permissions of the given mandate and thusly balance the portfolio.
+Only 25k of the Governance Tokens will be created for the DAO start-up: 1000 are reserved for the DAO initiator, 100 for the DAO intermediary, 1000 for sales + marketing, 500 for DAO.Finance. The remaining tokens are for the exclusive capitalization of the institution.
 
 ### DAO Token == Stable Coin
 The DAO token will be redeemable for the underlying liquid assets that it represents. For example, if the underlying capital pool is 1/3 ETH, 1/3 BTC, and 1/3 a basket of other tokens without any private assets held, then the DAO token can be burned in exchange for those assets less a small liquidity penalty corresponding to the size of the current mandate. This makes the DAO token a basket crypto-currency which should allow it to be somewhat more stable than any of the individual crypto-assets in underlying capital while still being a long-crypto asset. Such a mechanism is sometimes known as a 'Stablecoin'. Potentially, a [SET](https://www.setprotocol.com) could be deployed in support of this corporate currency backed by a basket of cryptocurrencies.
 
 ### Scalability
 The one common factor of all legacy organizations is that they are “sub-scalable”. This means that they become less and less effective as they grow in the number of members and a number of decisions they need to make. Free markets, the Internet, and network-effect-based applications (such as Facebook and Airbnb) are all “super-scalable” structures — that become more effective as they grow in members and interactions. With this terminology, the DAO is a “super-scalable organization”, that assimilates the efficiency, agility, and scalability of free markets while maintaining the coherence of a startup and the ability to pursue scalable missions.
-
 
 ## Conclusions
 Herein we present a framework and set of incentivization mechanisms to drive value creation among decentralized P2P actors in a for-profit capital pool. It is understood that there are numerous crypto-economic and security mechanisms to elaborate and evolve before deploying this set of smart contracts.
@@ -314,3 +314,27 @@ No representation, warranty, or assurance is made regarding the accuracy of the 
 The forward-looking statements in this paper are subject to numerous assumptions, risks, and uncertainties which are subject to change over time. There are many risk factors, including those relating to blockchain and cryptographic technology generally, as well as DAO's business, operations, and results of operations, that could cause actual results or developments anticipated by us not to be realized in whole or in part or, even if substantially realized, to fail to achieve any or all of the benefits that could be expected therefrom.
 
 We reserve the right to change the plans, expectations, and intentions stated herein at any time and for any reason, in our sole and absolute discretion, and except as may be otherwise required by applicable law, we undertake no obligation to update publicly or revise any forward-looking statement, whether as a result of new information, future developments or otherwise. Accordingly, we recommend that you do not rely on, and do not make any financial decision or investment based on, the statements contained in this paper including but not limited to any selling or trading of ether or any other cryptographic or blockchain token, or the securities of any company or other organization or group.
+
+
+## Possible Use Case [DOM.FINANCE](https://dom.fiance) 
+DOM goal is to make Crypto as easy as possible, and that means sharing the risks and fine print with you: The market for crypto assets and the purchase of crypto assets constitute a high risk. Crypto assets are subject to high fluctuations in value, and there is no real underlying asset. Declines in value or a rapid, complete loss of the money spent are possible at any time. Past performance is not a reliable indicator of future performance.
+
+* DAONET Chain for private, anonymous, blazing-fast, low-cost transactions with own chain explorer for the realtime confirmation of transaction.
+
+* Payment/Holding in EUR/USD/GBP, accounts for sending virtually and internally FIAT in system between users, as well externally by using FIAT bridge accounts (SWIFT/IBAN).
+
+* Trust yourself – only hold your assets in your private wallet aka MetaMask, Ledger, Trustwallet, etc. Use your assets for the transfers, payments on the platform.
+
+* The pooled community investments covered by Bank capital and a guaranteed safety of your investment.
+
+* Governance through DAO Governance Tokens and direct participation in the profits of the Bank.
+
+* Funding, Trading, Loans, Real Estates, Precious Metals & Gems, P2P, DEX, and much more backed by own Bank through Liquidity Pool Tokens. It is your safety in the financial world with the profits up to 30% p.a.
+
+* Monitoring of the money flow. Transparency in your hand offered by Bank through its private blockchain DAONET and chain explorer.
+
+* All that,- with a absolute privacy and if wished – the anonymity paired with the safety offered by a bank.
+
+* Debit Visa Card Service (not anonymous) in EUR/USD/GBP.
+
+* Secure wealth management (not anonymous).
