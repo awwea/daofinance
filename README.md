@@ -316,7 +316,9 @@ The forward-looking statements in this paper are subject to numerous assumptions
 We reserve the right to change the plans, expectations, and intentions stated herein at any time and for any reason, in our sole and absolute discretion, and except as may be otherwise required by applicable law, we undertake no obligation to update publicly or revise any forward-looking statement, whether as a result of new information, future developments or otherwise. Accordingly, we recommend that you do not rely on, and do not make any financial decision or investment based on, the statements contained in this paper including but not limited to any selling or trading of ether or any other cryptographic or blockchain token, or the securities of any company or other organization or group.
 
 
-## Possible Use Case [DOM.FINANCE](https://dom.fiance) 
+## Possible Use Case (Pilot, Proove of Concept)
+[DOM.FINANCE](https://dom.fiance) - Protect, access and grow your wealth globally with a smart, on-chain private bank account. You are free to transact in EUR, USD, GBP. Buy, manage and hold Stablecoins, Bitcoin, Ethereum, etc. privately and anonymously with a preferred wallet of your trust, and still be able to convert or use them all like any FIAT.
+
 DOM goal is to make Crypto as easy as possible, and that means sharing the risks and fine print with you: The market for crypto assets and the purchase of crypto assets constitute a high risk. Crypto assets are subject to high fluctuations in value, and there is no real underlying asset. Declines in value or a rapid, complete loss of the money spent are possible at any time. Past performance is not a reliable indicator of future performance.
 
 * DAONET Chain for private, anonymous, blazing-fast, low-cost transactions with own chain explorer for the realtime confirmation of transaction.
