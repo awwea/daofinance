@@ -4,29 +4,26 @@
 
 Grow and protect your wealth with a secure, multi-currency account on a decentralized, zero-trust platform with its own private chain. This is unique in its kind.
 
-
-
 ### What is it for?
 
 **Secure, private banking**
 
 Protect, access and grow your wealth globally with a smart, on-chain private bank account. You are free to transact in EUR, GBP, USD. Buy, manage and hold Stablecoins, Bitcoin, Ethereum, etc. privately and anonymously with a preferred wallet of your trust, and still be able to convert or use them all like any FIAT.
 
-Global payments
+#### Global payments
 
 Make cross-border payments seamless, anonymously and easy. Send, receive, and transact Stablecoins and FIAT EUR, GBP, USD with minimal fees and no hidden costs, and/or instantly convert them to your preferred cryptocurrency.
 
-Secure crypto account
+#### Secure crypto account
 
 Grow your Bitcoin, Ethereum, etc. with annual interest, paid out daily, and enjoy access to the DAO Finance Private Network — one of the fastest, anonymous and cheapest ways to send cryptocurrencies.
 
-#### Crypto payments made easy.
+#### Crypto payments made easy
 
 Take advantage of our global crypto payment gateway made easy and accessible for everyone — whether you're a business owner, crypto user, or even from another planet. Connect your business with a unique payment platform. Developer-friendly tools that are easy to use and understand for software developers. Typically, intuitive user interfaces, helpful documentation, and good support options to grow your business on demand.
 
-* **Built by Developers for Developers**
-* **Carefully crafted code for API**
-* **Dynamic Options**
+* Built by developers for developers
+* Carefully crafted code for API
 
 #### Portfolio Management
 
