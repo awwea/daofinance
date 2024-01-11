@@ -1,11 +1,14 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Use Case](use-case.md)
 * [Network](network.md)
-* [Use cases](use-cases.md)
+* [Features](features/README.md)
+  * [Liquidity](features/liquidity.md)
+  * [Governance](features/governance.md)
 * [Whitepaper](whitepaper.md)
 
-## How-To <a href="#howto" id="howto"></a>
+## Blueprint <a href="#howto" id="howto"></a>
 
 * [Login](howto/login.md)
 * [Logout](howto/logout.md)
@@ -14,3 +17,4 @@
 * [Trading](howto/trading.md)
 * [Transfer](howto/transfer.md)
 * [Withdrawal](howto/withdrawal.md)
+* [Trading](howto/trading-1.md)
