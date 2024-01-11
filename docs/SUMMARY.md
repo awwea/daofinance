@@ -17,4 +17,3 @@
 * [Trading](howto/trading.md)
 * [Transfer](howto/transfer.md)
 * [Withdrawal](howto/withdrawal.md)
-* [Trading](howto/trading-1.md)
