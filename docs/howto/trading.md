@@ -1,8 +1,8 @@
 ---
 description: >-
-  Finding good swing trading setups helps to trade with a plan — not just a hope
-  that a stock will go up. It’s the difference between being a well-prepared
-  trader and a gambler…
+  Finding good trading setups helps to trade with a plan — not just a hope that
+  a stock will go up. It’s the difference between being a well-prepared trader
+  and a gambler.
 ---
 
 # Trading
@@ -36,7 +36,7 @@ Individual investors who are not experts in crypto currencies but still want exp
 * A managed crypto account consists of putting money in a crypto account and having a professional trade those funds in the highly leveraged crypto exchange markets.
 * Managed crypto accounts offer exposure to an asset class much different than stocks or bonds.
 * Managed crypto accounts are high-risk, high-reward investments. Both individual investors and professional managers who aren't crypto experts can make use of managed crypto accounts.
-* DAO Finance do charge high fees: often between 30% and 35% of a trade's earnings.
+* DAO Finance do charge high fees: often between 25% and 35% of a trade's earnings.
 
 Managed crypto accounts are an investment opportunity for those who want the potential of returns from leveraged crypto trading, are willing to take serious risks, and want to have professionals do the work of selection and trading. It consists of putting money in a crypto account and having a professional trade those funds in the highly leveraged crypto exchange markets.
 
@@ -45,3 +45,18 @@ Investors who opt for this sort of account have the hope and expectations of unu
 #### How Does Account Management Work?
 
 When you open a managed crypto trading account, an account manager (a team of traders) will trade your capital alongside other investors' capital, buying and selling currencies. Manager has discretionary power over the funds: that is, he makes the decisions and don't consult you before a trade. There is usually only the charge of a performance fee, so you only pay when a profit has been made.
+
+#### &#x20;Launch into better trading
+
+5 strategic steps to help boost you from trader to savvy trader—educated, informed, and confident:
+
+* Found your wallet
+* Create your trading strategy
+* Trade & monitor
+
+Monitoring and observability tools provide real-time feedback on each system component’s fitness, performance and interoperability, rapidly spotting and addressing irregularities and other urgent issues.
+
+Performance monitoring analyzes system metrics, such as trade execution time, order fill rate, slippage and latency. It helps identify bottlenecks or inefficiencies impacting the system's overall performance.
+
+Constantly monitoring the system infrastructure, including servers, network connectivity, data feeds and platforms, helps ensure the system is always available, minimizing downtime and potential losses.
+
