@@ -10,6 +10,7 @@
 
 ## Blueprint <a href="#howto" id="howto"></a>
 
+* [Rewards](howto/rewards.md)
 * [Login](howto/login.md)
 * [Logout](howto/logout.md)
 * [Deposit](howto/deposit.md)
