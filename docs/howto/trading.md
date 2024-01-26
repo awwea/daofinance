@@ -7,11 +7,11 @@ description: >-
 
 # Trading
 
-#### What is swing trading?
+#### What is Swing trading?
 
 Swing trading is a style of trading that attempts to capture short- to medium-term gains in a stock (or any financial instrument) over a period of a few days to several weeks. Swing trading primarily use technical analysis to look for trading opportunities, utilize fundamental analysis in addition to analysing price trends and patterns.
 
-#### What is intraday trading?
+#### What is Intraday trading?
 
 Intraday means "within the day." In the financial world, the term is shorthand used to describe securities that trade on the markets during regular business hours. Intraday also signifies the highs and lows that the asset crossed throughout the day. Intraday price movements are particularly significant to short-term traders looking to make multiple trades over the course of a single trading session.
 
@@ -54,6 +54,16 @@ When you open a managed crypto trading account, an account manager (a team of tr
 Performance fees are cost structures that align the interests of account managers with those of their clients or investors. Unlike fixed management fees, PFs are calculated based on the trading performance of the asset manager. This means that the fee depends on the performance of each trade.
 
 Management fees cover expenses involved with managing a portfolio, such as fund operations and administrative costs. The management fee varies but usually ranges between 0.20 - 2.00%, depending on factors such as management style and size of the investment.
+
+#### Trading Profit
+
+While DEFI account managers work with the funds, the resulting profits are distributed among investors as follows:
+
+1. Daily statistics are kept. The results of completed trades always count.
+2. Investor participates in the results in the amount of the capital he invested within the contract term (TradeOrder).
+3. Positive results are also used in trading, which leads to higher profits.
+
+It is important to emphasize that the profit is proportional to the risk and is borne by the investor.
 
 #### &#x20;Launch into better trading
 
