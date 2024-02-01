@@ -11,11 +11,11 @@
 ## Blueprint <a href="#howto" id="howto"></a>
 
 * [Accounts](howto/accounts.md)
-* [Rewards](howto/rewards.md)
+* [Deposit](howto/deposit.md)
 * [Login](howto/login.md)
 * [Logout](howto/logout.md)
-* [Deposit](howto/deposit.md)
-* [Trading](howto/trading.md)
+* [Rewards](howto/rewards.md)
 * [Transfer](howto/transfer.md)
-* [Withdrawal](howto/withdrawal.md)
+* [Trading](howto/trading.md)
 * [Vendor](howto/vendor-tools.md)
+* [Withdrawal](howto/withdrawal.md)

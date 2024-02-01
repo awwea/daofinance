@@ -7,6 +7,23 @@ description: >-
 
 # Trading
 
+#### Types of Trading?
+
+DFI offers two types of trading to its community:\
+\
+a) Managed Trading Account - attractive for the investors\
+with some trading experience and with a profit/risk capability in mind for higher earns.\
+\
+b) Trading & Liquidity Pool - backed with the capital to issue a guarantee promise by the managing entity and very interesting for conservative, and less risk-oriented investors.\
+\
+c) DAO Token - every entity of DFI issues DAO Governance Tokens as certificate for underlying capital. This capital is being used for trading and liquidity pool building.
+
+#### Trading & Liquidity Pool&#x20;
+
+A liquidity pool serves the same purpose as market makers, but they do away with the centralized hierarchy of traditional finance. Instead of relying on third parties, decentralized exchanges (DEXs) allow anyone to “pool” their crypto onto a platform to facilitate trades.
+
+Trading pool - two or more investors who manipulate a market price by making buy or sell orders so as to create the impression of high volume and general interest in the market. This could raise or lower the price, according to the needs of the trading pool. A trading pool is a private investment structure that combines investor contributions to trade the futures and spot markets. The trading pool, or fund, is used as a single entity to gain leverage in trading, in the hopes of maximizing profit potential. Trading pools are also called "managed futures funds."
+
 #### What is Swing trading?
 
 Swing trading is a style of trading that attempts to capture short- to medium-term gains in a stock (or any financial instrument) over a period of a few days to several weeks. Swing trading primarily use technical analysis to look for trading opportunities, utilize fundamental analysis in addition to analysing price trends and patterns.
