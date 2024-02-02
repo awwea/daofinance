@@ -4,8 +4,8 @@
 * [Use Case](use-case.md)
 * [Network](network.md)
 * [Features](features/README.md)
-  * [Liquidity](features/liquidity.md)
-  * [Governance](features/governance.md)
+  * [Trading & Liquidity Pools](features/pools.md)
+  * [DAO Governance](features/governance.md)
 * [Whitepaper](whitepaper.md)
 
 ## Blueprint <a href="#howto" id="howto"></a>
