@@ -11,7 +11,7 @@ description: >-
 
 A Virtual Account is a digital payment method through an account that is created virtually for each customer. To make payments, customers will be referred to their own Virtual Accounts.
 
-A Virtual Account consists of a unique customer ID number. It means that there will be no Virtual Account number that is exactly the same. So, each transaction can be identified automatically for different customers. When the transaction is complete, they do not need to send a transfer receipt anymore. Virtual Account ID is bent to the customer's wallet address.
+A Virtual Account consists of a unique user ID number. It means that there will be no Virtual Account number that is exactly the same. So, each transaction can be identified automatically for different users. When the transaction is complete, they do not need to send a transfer receipt anymore. Virtual Account ID is bent to the user's wallet address.
 
 #### **How Virtual Accounts work**
 
