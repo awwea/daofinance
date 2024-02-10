@@ -16,7 +16,7 @@ with some trading experience and with a profit/risk capability in mind for highe
 \
 b) Trading & Liquidity Pool - backed with the capital to issue a guarantee promise by the managing entity and very interesting for conservative, and less risk-oriented investors.\
 \
-c) DAO Token - every entity of DFI issues DAO Governance Tokens as certificate for underlying capital. This capital is being used for trading and liquidity pool building.
+c) DAO Token - every entity of DFI issues DAO Governance Tokens as a proof for the submitted underlying capital into DAO treasury. This capital is being used among other things also for the trading activities and liquidity pool buildings, therefor the investor participates at 100%.
 
 #### Trading & Liquidity Pool&#x20;
 
@@ -77,7 +77,7 @@ Management fees cover expenses involved with managing a portfolio, such as fund 
 While DEFI account managers work with the funds, the resulting profits are distributed among investors as follows:
 
 1. Daily statistics are kept. The results of completed trades always count.
-2. Investor participates in the results in the amount of the capital he invested within the contract term (TradeOrder).
+2. Investor participates in the results in the amount of the capital invested within the contract term (Trade-Order).
 3. Positive results are also used in trading, which leads to higher profits.
 
 It is important to emphasize that the profit is proportional to the risk and is borne by the investor.
@@ -90,8 +90,12 @@ It is important to emphasize that the profit is proportional to the risk and is 
 * Create your trading strategy
 * Trade & monitor
 
+#### Trading Monitor
+
 Monitoring and observability tools provide real-time feedback on each system component’s fitness, performance and interoperability, rapidly spotting and addressing irregularities and other urgent issues.
 
 Performance monitoring analyses system metrics, such as trade execution time, order fill rate, slippage and latency. It helps identify bottlenecks or inefficiencies impacting the system's overall performance.
 
 Constantly monitoring the system infrastructure, including servers, network connectivity, data feeds and platforms, helps ensure the system is always available, minimizing downtime and potential losses.
+
+DFI provides a monitoring tool for better, transparent user experience.  Built on chain data all trading and liquidity mining activities can be seen in real time by everyone.
