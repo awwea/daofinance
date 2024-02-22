@@ -17,5 +17,5 @@
 * [Rewards](howto/rewards.md)
 * [Transfer](howto/transfer.md)
 * [Trading](howto/trading.md)
-* [Vendor](howto/vendor-tools.md)
+* [Vendor](howto/vendor.md)
 * [Withdrawal](howto/withdrawal.md)
