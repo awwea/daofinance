@@ -74,7 +74,7 @@ Management fees cover expenses involved with managing a portfolio, such as fund 
 
 #### Trading Profit
 
-While DEFI account managers work with the funds, the resulting profits are distributed among investors as follows:
+While DFI account managers work with the funds, the resulting profits are distributed among investors as follows:
 
 1. Daily statistics are kept. The results of completed trades always count.
 2. Investor participates in the results in the amount of the capital invested within the contract term (Trade-Order).
@@ -90,7 +90,7 @@ It is important to emphasize that the profit is proportional to the risk and is 
 * Create your trading strategy
 * Trade & monitor
 
-#### Trading Monitor
+#### Monitor <a href="#monitor" id="monitor"></a>
 
 Monitoring and observability tools provide real-time feedback on each system component’s fitness, performance and interoperability, rapidly spotting and addressing irregularities and other urgent issues.
 
@@ -99,3 +99,7 @@ Performance monitoring analyses system metrics, such as trade execution time, or
 Constantly monitoring the system infrastructure, including servers, network connectivity, data feeds and platforms, helps ensure the system is always available, minimizing downtime and potential losses.
 
 DFI provides a monitoring tool for better, transparent user experience.  Built on chain data all trading and liquidity mining activities can be seen in real time by everyone.
+
+#### Invoice
+
+After each period of trading an invoice will be issued transparently to deduct the corresponding commission from the trading profit. The management fee is deducted before the trading order is executed.
