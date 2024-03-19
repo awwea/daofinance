@@ -10,7 +10,7 @@
 
 ## Blueprint <a href="#howto" id="howto"></a>
 
-* [Login & Logout](howto/login-and-logout.md)
+* [Affiliate](howto/affiliate.md)
 * [Account](howto/account.md)
 * [Deposit](howto/deposit.md)
 * [Rewards](howto/rewards.md)
@@ -19,4 +19,5 @@
 * [Vendor](howto/vendor/README.md)
   * [Checkout](howto/vendor/checkout.md)
   * [Processing](howto/vendor/processing.md)
+* [Login & Logout](howto/login-and-logout.md)
 * [Withdrawal](howto/withdrawal.md)
