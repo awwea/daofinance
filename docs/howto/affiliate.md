@@ -7,3 +7,4 @@ description: >-
 
 # Affiliate
 
+Earn commission when you refer new partners to select DFI plans. We help you make the most referrals possible with resources to support your content development and assist your referral traffic’s conversion rate. Get access to a library of global creative, ready-made education and lead magnets, and detailed performance insights through your personal dashboard.
