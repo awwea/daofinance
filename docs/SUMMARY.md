@@ -14,7 +14,7 @@
 * [Account](howto/account.md)
 * [Deposit](howto/deposit.md)
 * [Rewards](howto/rewards.md)
-* [P2P (Fiat Transfers)](howto/p2p-fiat-transfers.md)
+* [P2P (Fiat Transfers)](howto/p2p.md)
 * [Trading](howto/trading.md)
 * [Vendor](howto/vendor/README.md)
   * [Checkout](howto/vendor/checkout.md)
