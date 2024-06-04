@@ -1,11 +1,11 @@
 ---
 description: >-
-  Trading & Liquidity Pool - backed with the underlying capital to issue a
+  Trading & Liquidity Pools - backed with the underlying capital to issue a
   guarantee promise by the managing entity, attractive for conservative, and
   less risk-oriented investors.
 ---
 
-# Trading & Liquidity Pools
+# Pools
 
 #### &#x20;Liquidity Pool
 

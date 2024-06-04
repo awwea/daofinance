@@ -2,10 +2,11 @@
 
 * [Introduction](README.md)
 * [Use Cases](use-cases.md)
-* [Network Protocol](network-protocol.md)
+* [Protocol](protocol.md)
 * [Features](features/README.md)
-  * [DAO Governance](features/governance.md)
-  * [Liquidity Pool](features/pools.md)
+  * [Governance](features/governance.md)
+  * [Pools](features/pool.md)
+  * [ETFs](features/etfs.md)
 * [Whitepaper](whitepaper.md)
 
 ## Blueprint <a href="#howto" id="howto"></a>
