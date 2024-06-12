@@ -11,6 +11,7 @@
 
 ## Blueprint <a href="#howto" id="howto"></a>
 
+* [Loans](howto/loans.md)
 * [Affiliate](howto/affiliate.md)
 * [Account](howto/account.md)
 * [Deposit](howto/deposit.md)
