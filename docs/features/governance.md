@@ -1,10 +1,11 @@
 ---
 description: >-
   A DAO governance model is a collection of regulations that define how the
-  organization operates.
+  organization operates. DAO investment model foresees the payment of the
+  dividends for invested capital in gov-tokens.
 ---
 
-# DAO Governance
+# Governance
 
 By participating in this DAO project, which deals with the allocation of liquidity, its management and re-investing, one acquires the right to share on the profits. DAO supports democratic, decentralized finance, all experts agree that the decentralized finance that will be the future trillion market.
 
@@ -95,3 +96,14 @@ While this model offers significant benefits such as direct access to markets an
 
 By effectively leveraging this model, DAOs can tap into diverse revenue streams while fostering a closer connection with their target markets and broadening their operational scope.
 
+#### Performance & Dividends
+
+The main goal of an Investment DAO is to help people pool their assets to buy or invest in objects that they would not be able to finance on their own. The investment DAO can also conventionally be called a crowdfunding vehicle or a collective investment scheme. The investors who have joined a given crowdfunding campaign have the opportunity not only to receive benefits from their own investment, such as dividends, but in some cases also have the opportunity to use collectively funded objects, as well as collectively make decisions about trading such assets or other ways of managing them.
+
+Entry into DAO investment model is a personal decision of buying shares or governance tokens. After purchasing them shareholder obtains voting rights and right on participating of the organization's net profit (after 3 days).
+
+Dividends are the allocation of a DAO’s profits to its shareholders. Typically, DAO issues dividends on a quarterly basis and only after the finalization of income statements for that quarter. The amount of each quarterly dividend is set at the discretion of the DAO’s board of administrators.
+
+The dividend payout ratio represents the percent of the organization’s net income it pays out to its shareholders and set at the discretion of the DAO’s board of administrators, usually 75% of the net income.
+
+A dividend tracker is a tool that helps investors monitor and track their investment portfolio's dividend payments, aiding in decision-making and budgeting on daily basis.
