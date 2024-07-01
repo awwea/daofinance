@@ -112,7 +112,7 @@ A dividend tracker is a tool that helps investors monitor and track their invest
 
 Entering in DAO is simple as buying voting/governance tokens. In order to make the funding process attractive, the DFI team has developed a financial vehicle that gives its members or founders some kind of stimulus.
 
-100% of the paid capital is available to the organization. To satisfy the founders, a share of 20%, generated from dividends, goes into the founder pool. After that, the investor enjoys up to 75% of his dividends and 25% is retained for management activities. Short version:
+100% of the paid capital is available to the organization. To satisfy the founders, a share of 20%, generated from dividends, goes into the founder pool (up to 2% from overall fundraised capital). After that, the investor enjoys up to 75% of his dividends and 25% is retained for management activities. Short version:
 
 * 20%, consensus fee paid out of profits
 * 75% of profits paid quarterly as dividends
