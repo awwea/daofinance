@@ -4,7 +4,7 @@ description: >-
   data. Network protocols are like a common language for computers.
 ---
 
-# Network Protocol
+# Protocol
 
 Purpose of creation of this framework was - a wish to increase its market share or/and geographical reach at a low cost, it may franchise its idee, product, infrastructure and brand name. It is a joint venture between a DAO Finance and you.
 
@@ -23,3 +23,7 @@ They’re the cost of entry. Paying the upfront franchise fee unlocks the door t
 There are other fees associated with owning and operating a franchise business. These include marketing fees and royalties. Franchise marketing fees are usually based on your monthly revenue.
 
 There are no hidden fees or costs. Please, be free contact us through community telegram channel:
+
+#### How to get there?
+
+As a founder of an entity base on DFI Protocol you will raise and work with your community, as example and reference please see a very first pilot project DOM.FINANCE.

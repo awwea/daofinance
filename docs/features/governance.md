@@ -108,11 +108,12 @@ The dividend payout ratio represents the percent of the organization’s net inc
 
 A dividend tracker is a tool that helps investors monitor and track their investment portfolio's dividend payments, aiding in decision-making and budgeting on daily basis.
 
-#### Consensus
+#### General Consensus
 
-Entering in DAO is simple as purchasing voting/governance tokens. In order to make the developing \&funding process attractive, the DFI team has developed a financial vehicle that gives its members or founders some kind of stimulus.
+Entering in DAO is simple as purchasing voting/governance tokens. In order to make the developing & funding process attractive, the DFI team has developed a financial vehicle that gives its members or founders some kind of stimulus.
 
-First of all, the all 100% of the paid capital is available to the organization and investment activities. To satisfy the founders, a share of 20%, generated from dividends, goes into the founder pool (an amount up to 2% from overall fundraised capital). After that, the investor enjoys up to 75% of its dividends and 25% is retained for management. Short version:
+First of all, all 100% of the for the token paid capital is available to the organization and investment activities. To satisfy the founders, a onetime share of 20%, generated from the dividends, goes into the founder pool (up to 2% from overall fundraised capital). After that, the investor enjoys up to 75% of its dividends and 25% is retained for management. Short version:
 
-* 20%, consensus fee paid out of profits
-* 75% of profits paid quarterly as dividends
+* up to 20%, consensus fee paid out of profits (onetime)
+* up to 75% of profits paid quarterly as dividends
+
