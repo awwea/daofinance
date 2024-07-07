@@ -1,7 +1,8 @@
 ---
 description: >-
-  In networking, a protocol is a set of rules for formatting and processing
-  data. Network protocols are like a common language for computers.
+  The term DAO stands for “decentralized autonomous organization” and can be
+  described as an open source blockchain protocol governed by a set of rules,
+  created by its elected members.
 ---
 
 # Protocol
@@ -22,8 +23,18 @@ They’re the cost of entry. Paying the upfront franchise fee unlocks the door t
 
 There are other fees associated with owning and operating a franchise business. These include marketing fees and royalties. Franchise marketing fees are usually based on your monthly revenue.
 
-There are no hidden fees or costs. Please, be free contact us through community telegram channel:
+There are no hidden fees or costs.
 
 #### How to get there?
 
 As a founder of an entity base on DFI Protocol you will raise and work with your community, as example and reference please see a very first pilot project DOM.FINANCE.
+
+As the community grows, meaning that the platform's many products and services attract more interest from the masses, and the sale of governance tokens progresses and the organization capitalizes with them, the founders can claim up to 2% of the total number of 25,000 tokens. That ensures a working capital of USD 378,750,000 for organization.&#x20;
+
+The founder token pool always needs to be filled with capital first. This happens whenever users buy their tokens and the first dividend of up to 20% of the total token price goes into the above-mentioned pool. Please see also the section Governance Tokens.
+
+{% content-ref url="features/governance.md" %}
+[governance.md](features/governance.md)
+{% endcontent-ref %}
+
+As soon as the Founder Pool is 100% full, the founders are accepted into DFI as members and participate in the profits of the parent organization.
