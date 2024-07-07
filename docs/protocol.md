@@ -15,7 +15,7 @@ If you don't want to run a business based on someone else's idea, you can start 
 
 The failure rate for new businesses is high. Two-thirds of businesses survive just two years, and 50% survive just five years. If your business is going to beat the odds, you alone can make that happen.
 
-To turn your dream into reality, expect to work long and hard hours with no support or expert training. If you venture out solo with little or no experience, the deck is stacked against you. If this sounds like too big a burden, the franchise route may be a wiser choice.
+To turn your dream into reality, expect to work long and hard hours with no support or expert training. If you venture out solo with little or no experience, the deck is stacked against you. If this sounds like too big a burden, the franchise route may be a wise choice.
 
 Whatever you are creating a Bank, Investment or Real Estate Fund, using DAO Finance infrastructure get you much faster to your goal.
 
@@ -25,7 +25,7 @@ There are other fees associated with owning and operating a franchise business. 
 
 There are no hidden fees or costs.
 
-#### How to get there?
+#### Well and how to get there?
 
 As a founder of an entity base on DFI Protocol you will raise and work with your community, as example and reference please see a very first pilot project DOM.FINANCE.
 
@@ -37,4 +37,4 @@ The founder token pool always needs to be filled with capital first. This happen
 [governance.md](features/governance.md)
 {% endcontent-ref %}
 
-As soon as the Founder Pool is 100% full, the founders are accepted into DFI as members and participate in the profits of the parent organization.
+As soon as the Founder Pool is 100% full, the founders are accepted into DFI as its members and participate in the profits of the parent organization.
