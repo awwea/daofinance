@@ -1,0 +1,48 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+.text--justify {
+    text-align: justify;
+}
+.border {
+    border: 1px solid;
+    border-radius: 0.25rem;
+}
+/* You can override the default Infima variables here. */
+:root {
+    --ifm-color-primary: #c47de8;
+    --ifm-color-primary-dark: #c47de8;
+    --ifm-color-primary-darker: #bc6be5;
+    --ifm-color-primary-darkest: #b359e2;
+    --ifm-color-primary-light: #d29bed;
+    --ifm-color-primary-lighter: #d9abf0;
+    --ifm-color-primary-lightest: #edd8f8;
+
+    --ifm-code-font-size: 95%;
+    --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+
+    --ifm-footer-background-color: #231829;
+    --ifm-footer-link-color: #fbf2ff;
+    --ifm-footer-title-color: white;
+    --ifm-footer-color: #fbf2ff;
+    --ifm-spacing-vertical: 2rem;
+    --ifm-font-family-base: "Open Sans", sans-serif;
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme="dark"] {
+    --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+    --ifm-color-content-inverse: white;
+    --ifm-hero-text-color: white;
+    --ifm-heading-color: white;
+}
+
+[data-theme="dark"] footer {
+    background-color: #231829;
+}
+
+.hero__subtitle {
+    line-height: initial;
+}

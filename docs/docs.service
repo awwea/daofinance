@@ -1,0 +1,17 @@
+[Unit]
+Description=DOCS Server
+After=syslog.target network.target
+StartLimitIntervalSec=3
+
+[Service]
+Type=simple
+Restart=on-failure
+
+ExecStart=pnpm run start
+WorkingDirectory=/opt/docs
+
+StandardOutput=append:/opt/docs/logs/log
+StandardError=append:/opt/docs/logs/log
+
+[Install]
+WantedBy=multi-user.target
