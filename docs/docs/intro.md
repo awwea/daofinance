@@ -1,17 +1,10 @@
 ---
 sidebar_position: 1
+description: DAO Finance is a simple, open-source framework. It was popularized due to its minimum viable DAO design and the advent of rage-quit - that means for its members to exit DAO by exchanging their shares.
+slug: itro
 ---
 
 # Introduction
-
----
-
-description:
-DAO Finance is a simple, open-source framework. It was popularized due to its
-Minimum Viable DAO design and the advent of rage-quit - that means for its
-members to exit DAO by exchanging their shares.
-
----
 
 ### Nextgen Neobank (DFI)
 
@@ -42,6 +35,6 @@ Since build with/on compressive DAO Finance framework is an open-source project 
 
 Built on top of bunch smart contracts. Smart contract code undergoes testing and validation before deployment and all transactions are recorded on a public ledger \[Blockchain]. This makes them less vulnerable to malicious attacks and fraud.
 
-#### DAO Finance is a DAO
+#### DFI is a DAO
 
-DAO for a bank is able to offer secure and efficient services without the need for a brick-and-mortar infrastructure, relying instead on DLT (Blockchain). Welcome to the future of banking — beautifully simple, 100% transparent, and built trustfully on EVM-powered blockchain technology with its members in mind.
+DAO for a banking is able to offer secure and efficient services without the need for a brick-and-mortar infrastructure, relying instead on DLT (Blockchain). Welcome to the future of banking — beautifully simple, 100% transparent, and built trustfully on EVM-powered blockchain technology with its members in mind.

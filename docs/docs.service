@@ -1,17 +1,19 @@
 [Unit]
-Description=DOCS Server
+Description=DOCS Server (Docusaurus)
 After=syslog.target network.target
 StartLimitIntervalSec=3
 
 [Service]
+User=root
 Type=simple
 Restart=on-failure
 
+Environment=NODE_PORT=4000
+WorkingDirectory=/opt/daofinance/docs
 ExecStart=pnpm run start
-WorkingDirectory=/opt/docs
 
-StandardOutput=append:/opt/docs/logs/log
-StandardError=append:/opt/docs/logs/log
+StandardOutput=append:/opt/daofinance/docs/logs/log
+StandardError=append:/opt/daofinance/docs/logs/log
 
 [Install]
 WantedBy=multi-user.target

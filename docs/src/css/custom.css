@@ -46,3 +46,8 @@
 .hero__subtitle {
     line-height: initial;
 }
+
+.footer__disclaimer {
+    padding: 1.25rem 0;
+    font-size: small;
+}

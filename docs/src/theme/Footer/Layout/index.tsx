@@ -2,7 +2,7 @@ import React from "react";
 import clsx from "clsx";
 import type { Props } from "@theme/Footer/Layout";
 
-export default function FooterLayout({ style, links, logo, copyright }: Props): JSX.Element {
+export default function FooterLayout({ style, links, logo, copyright, disclaimer }: Props): JSX.Element {
     return (
         <footer
             className={clsx("footer", {
@@ -11,6 +11,7 @@ export default function FooterLayout({ style, links, logo, copyright }: Props): 
         >
             <div className="container container-fluid">
                 {links}
+                {disclaimer}
                 {(logo || copyright) && (
                     <div className="footer__bottom text--center">
                         {logo && <div className="margin-bottom--sm">{logo}</div>}

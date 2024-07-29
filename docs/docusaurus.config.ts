@@ -18,6 +18,11 @@ const config: Config = {
         defaultLocale: "en",
         locales: ["en"],
     },
+    themes: ["@docusaurus/theme-mermaid"],
+    markdown: {
+        format: "detect",
+        mermaid: true,
+    },
     plugins: [
         [
             "@docusaurus/plugin-ideal-image",
@@ -37,11 +42,11 @@ const config: Config = {
                 docs: {
                     routeBasePath: "/",
                     sidebarPath: "./sidebars.ts",
-                    editUrl: "https://github.com/awwea/daofinance/tree/main/",
+                    editUrl: "https://github.com/awwea/daofinance/tree/main/docs/",
                 },
                 blog: {
                     showReadingTime: true,
-                    editUrl: "https://github.com/awwea/daofinance/tree/main/docs/",
+                    editUrl: "https://github.com/awwea/daofinance/tree/main/docs/docs/",
                 },
                 theme: {
                     customCss: ["./src/css/custom.css"],
@@ -62,6 +67,9 @@ const config: Config = {
         ],
     ],
     themeConfig: {
+        mermaid: {
+            theme: {light: "neutral", dark: "dark"},
+        },
         colorMode: {
             defaultMode: "dark",
             disableSwitch: false,
@@ -169,6 +177,9 @@ const config: Config = {
                 },
             ],
             copyright: `Copyright © ${new Date().getFullYear()} by Dao Finance. All rights reserved.`,
+        },
+        customFields: {
+            disclaimer: "The market for crypto assets and the purchase of crypto assets constitute a high risk. Those are subject to high fluctuations in value, and there is no allways real underlying asset except (stable coins). Declines in value or a rapid, complete loss of the money spent are possible at any time. Past performance is not a reliable indicator of future performance.",
         },
         prism: {
             theme: prismThemes.github,

@@ -46,18 +46,18 @@ server {
 		proxy_pass http://@docs;
         include common/proxy_cache_params;
     }
-    location ~* \.(?:css|js|scss|less)$ {
-        try_files $uri @proxy;
-        include common/headers;
-        access_log off; log_not_found off;
-        add_header Cache-Control "public, max-age=31536000";
-        expires 1d;
-    }
-    location ~* \.(?:asf|asx|wax|wmv|wmx|avi|bmp|class|divx|doc|docx|eot|exe|gif|gz|gzip|ico|jff|jpg|jpeg|jpe|json|html|mdb|mid|midi|mov|qt|mp3|m4a|mp4|m4v|mpeg|mpg|mpe|mpp|odb|odc|odf|odg|odp|ods|odt|ogg|ogv|otf|pdf|png|pot|pps|ppt|pptx|ra|ram|svg|svgz|swf|tar|t?gz|tif|tiff|ttf|wav|webm|webp|wma|woff|woff2|wri|xla|xls|xlsx|xlt|xlw|zip)$ {
-        access_log off; log_not_found off;
-        try_files $uri @proxy;
-        expires 21d;
-    }
+    # location ~* \.(?:css|js|scss|less)$ {
+        # try_files $uri @proxy;
+        # include common/headers;
+        # access_log off; log_not_found off;
+        # add_header Cache-Control "public, max-age=31536000";
+        # expires 1d;
+    # }
+    # location ~* \.(?:asf|asx|wax|wmv|wmx|avi|bmp|class|divx|doc|docx|eot|exe|gif|gz|gzip|ico|jff|jpg|jpeg|jpe|json|html|mdb|mid|midi|mov|qt|mp3|m4a|mp4|m4v|mpeg|mpg|mpe|mpp|odb|odc|odf|odg|odp|ods|odt|ogg|ogv|otf|pdf|png|pot|pps|ppt|pptx|ra|ram|svg|svgz|swf|tar|t?gz|tif|tiff|ttf|wav|webm|webp|wma|woff|woff2|wri|xla|xls|xlsx|xlt|xlw|zip)$ {
+        # access_log off; log_not_found off;
+        # try_files $uri @proxy;
+        # expires 21d;
+    # }
     location / {
         proxy_cookie_path / "/; secure; HttpOnly; SameSite=lax";
         # include proxy_params;

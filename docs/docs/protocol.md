@@ -1,11 +1,9 @@
 ---
-description: >-
-    The term DAO stands for “decentralized autonomous organization” and can be
-    described as an open source blockchain protocol governed by a set of rules,
-    created by its elected members.
+title: Protocol
+description: The term DAO stands for “decentralized autonomous organization” and can be described as an open source blockchain protocol governed by a set of rules, created by its elected members.
 ---
 
-# Protocol
+# Protocol (DFI)
 
 Purpose of creation of this framework was - a wish to increase its market share or/and geographical reach at a low cost, it may franchise its idee, product, infrastructure and brand name. It is a joint venture between a DAO Finance and you.
 
@@ -34,3 +32,5 @@ As the community grows, meaning that the platform's many products and services a
 The founder token pool always needs to be filled with capital first. This happens whenever users buy their tokens and the first dividend of up to 20% of the total token price goes into the above-mentioned pool. Please see also the section Governance Tokens.
 
 As soon as the Founder Pool is 100% full, the founders are accepted into DFI as its members and participate in the profits of the parent organization.
+
+>[Please see also governance reference](/Features/governance)

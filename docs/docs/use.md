@@ -1,11 +1,9 @@
 ---
-description: >-
-    Banks today are already using blockchain technology for things like payment,
-    clearing and settlement, trade finance, identity, and syndicated loans,
-    according to The Financial Times.
+description: Banks today are already using blockchain technology for things like payment, clearing and settlement, trade finance, identity, and syndicated loans, according to The Financial Times.
+slug: use
 ---
 
-# Use cases
+# Use-Cases
 
 **Checking & Savings Accounts**\
 An account at a financial institution that allows for withdrawals and deposits. Great for paying bills and keeping track of spending. A deposit account held at a bank or other financial institution that safeguards funds and provides a modest interest rate. Great for building emergency savings or saving for short or medium-term goals. An account known as a wallet, issued on the DAO private chain ensures the trackability of user accounts. The account balance could be in a stable currency or might be converted and held in real value like tokenized gold.

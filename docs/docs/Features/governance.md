@@ -1,8 +1,5 @@
 ---
-description: >-
-    A DAO governance model is a collection of regulations that define how the
-    organization operates. DAO investment model foresees the payment of the
-    dividends for invested capital in gov-tokens.
+description: A DAO governance model is a collection of regulations that define how the organization operates. DAO investment model foresees the payment of the dividends for invested capital in gov-tokens.
 ---
 
 # Governance
