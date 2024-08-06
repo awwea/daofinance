@@ -45,6 +45,8 @@
 
 .hero__subtitle {
     line-height: initial;
+    text-align: justify;
+    font-size: 22px;
 }
 
 .footer__disclaimer {

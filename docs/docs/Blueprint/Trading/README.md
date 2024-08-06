@@ -1,11 +1,10 @@
 ---
-description: >-
-    Finding good trading setups helps to trade with a plan — not just a hope that
-    a stock will go up. It’s the difference between being a well-prepared trader
-    and a gambler.
+description: Finding good trading setups helps to trade with a plan — not just a hope that a stock will go up. It’s the difference between being a well-prepared trader and a gambler.
 ---
 
 # Trading
+
+Finding good trading setups helps to trade with a plan — not just a hope that a stock will go up. It’s the difference between being a well-prepared trader and a gambler.
 
 #### Types of Trading?
 

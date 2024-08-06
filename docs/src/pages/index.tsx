@@ -1,4 +1,5 @@
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
+import Head from '@docusaurus/Head';
 import Link from "@docusaurus/Link";
 import Layout from "@theme/Layout";
 import clsx from "clsx";
@@ -11,9 +12,10 @@ import styles from "./index.module.css";
 function Header() {
     const { siteConfig } = useDocusaurusContext();
     return (
+    <>
         <header className={clsx("hero hero--primary", styles.heroBanner)}>
             <div className="container">
-                <div className="row">
+                <div className="row padding-vert--md">
                     <div className="col col--7">
                         <Heading as="h1" className="hero__title">
                             I'm {siteConfig.organizationName} ({siteConfig.title})
@@ -22,7 +24,7 @@ function Header() {
                         <div className={styles.heroButtons}>
                             <Link
                                 className="button button--secondary button--outline button--lg"
-                                to="/protocol"
+                                to="/protocol/start"
                             >
                                 Get Started
                             </Link>
@@ -54,6 +56,7 @@ function Header() {
                 </div>
             </div>
         </header>
+    </>
     );
 }
 
@@ -61,6 +64,11 @@ export default function Home(): JSX.Element {
     const { siteConfig } = useDocusaurusContext();
     return (
         <Layout title={`${siteConfig.title}`} description={siteConfig.tagline}>
+            <Head>
+                <title>{siteConfig.organizationName} | {siteConfig.title}</title>
+                <meta name="generator" content="daofinance" />
+                <meta charSet="utf-8" />
+            </Head>
             <Header />
             <main>
                 <Features />

@@ -6,11 +6,11 @@ import "dotenv/config";
 const config: Config = {
     title: "Dao Finance",
     tagline:
-        "DAO Finance is a simple, open-source framework. It was popularized due to its minimum viable DAO design and the advent of rage-quit.",
+        "DFI is a simple, open-source framework for finance apps. It was popularized due to its minimum viable DAO design and the advent of rage-quit, the decentralized, zero-trust, community driven platform with its own private chain.",
     favicon: "https://raw.githubusercontent.com/awwea/daofinance/main/assets/favicon-32x32.png",
     url: "https://docs.daofinance.me",
     baseUrl: "/",
-    projectName: "dfi",
+    projectName: "daofinance",
     organizationName: "DFI",
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",
@@ -28,9 +28,9 @@ const config: Config = {
             "@docusaurus/plugin-ideal-image",
             {
                 quality: 70,
-                max: 1030, // max resized image"s size.
-                min: 640, // min resized image"s size. if original is lower, use that size.
-                steps: 2, // the max number of images generated between min and max (inclusive)
+                max: 1030,
+                min: 640,
+                steps: 2,
                 disableInDev: false,
             },
         ],
@@ -76,8 +76,8 @@ const config: Config = {
             respectPrefersColorScheme: false,
         },
         announcementBar: {
-            id: "support_us",
-            content: "We are looking to revamp our docs, please be patient.",
+            id: "0",
+            content: "We are looking to revamp our docs, please be patient!",
             backgroundColor: "#fafbfc",
             textColor: "#091E42",
             isCloseable: true,
@@ -85,7 +85,7 @@ const config: Config = {
         image: "https://raw.githubusercontent.com/awwea/daofinance/main/assets/symbol.png",
         metadata: [
             { name: "keywords", content: "dao, dex, swap" },
-            { name: "twitter:card", content: "summary_large_image" },
+            { name: "twitter:card", content: "summary" },
         ],
         navbar: {
             title: "DFI",
@@ -104,6 +104,16 @@ const config: Config = {
                     sidebarId: "tutorialSidebar",
                     position: "left",
                     label: "Docs",
+                },
+                {
+                    to: "/governance",
+                    position: "left",
+                    label: "Gov",
+                },
+                {
+                    href: "https://dex.daofinance.me",
+                    position: "right",
+                    label: "DEX",
                 },
                 {
                     href: "https://explorer.daofinance.me",

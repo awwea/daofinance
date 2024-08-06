@@ -1,8 +1,5 @@
 ---
-description: >-
-    P2P Trading via Fiat Balance lets traders pay and receive funds in the DFI
-    Virtual Account of both buyers and sellers, so the entire transaction process
-    will be more time efficient. Various fiat cu
+description: P2P Trading via Fiat Balance lets traders pay and receive funds in the DFI Virtual Account of both buyers and sellers, so the entire transaction process will be more time efficient. Various fiat cu
 ---
 
 # FIAT Transfers

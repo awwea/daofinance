@@ -1,13 +1,12 @@
 ---
-description: >-
-    Trading & Liquidity Pools - backed with the underlying capital to issue a
-    guarantee promise by the managing entity, attractive for conservative, and
-    less risk-oriented investors.
+description: Trading & Liquidity Pools - backed with the underlying capital to issue a guarantee promise by the managing entity, attractive for conservative, and less risk-oriented investors.
 ---
 
 # Pools
 
-#### &#x20;Liquidity Pool
+Investment Pools - backed with the underlying capital to issue a guarantee promise by the managing entity, attractive for conservative, and less risk-oriented investors.
+
+#### Liquidity Pool
 
 Liquidity is critical to the success of crypto-native financial markets. DAO Liquidity is building infrastructure to support DeFi protocols beyond providing capital through venture-backed financing.
 
@@ -17,7 +16,7 @@ Liquidity pools offer numerous advantages; among them is the significant reducti
 
 With liquidity pools, accessibility is greatly enhanced, as retail investors can join without facing the limitations encountered in traditional markets. Moreover, the permissionless nature of these pools eliminates the need for intermediaries or cumbersome approval processes, empowering individuals to engage directly with the market.
 
-#### Trading pool
+#### Trading Pool
 
 Two or more investors who manipulate a market price by making buy or sell orders so as to create the impression of high volume and general interest in the market. This could raise or lower the price, according to the needs of the trading pool. A trading pool is a private investment structure that combines investor contributions to trade the futures and spot markets. The trading pool, or fund, is used as a single entity to gain leverage in trading, in the hopes of maximizing profit potential. Trading pools are also called "managed futures funds."
 
