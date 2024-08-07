@@ -25,7 +25,10 @@ const FeatureList: FeatureItem[] = [
         Svg: require("@site/static/img/undraw_crypto_flowers_re_dyqo.svg").default,
         description: (
             <>
-                By participating in DFI project, which deals with the allocation of liquidity, its management and re-investing, one acquires the right to share on the profits. DAO supports democratic, decentralized finance, all experts agree that the decentralized finance that will be the future trillion market.
+                By participating in DFI project, which deals with the allocation of liquidity, its
+                management and re-investing, one acquires the right to share on the profits. DAO
+                supports democratic, decentralized finance, all experts agree that the decentralized
+                finance that will be the future trillion market.
             </>
         ),
     },
@@ -34,7 +37,9 @@ const FeatureList: FeatureItem[] = [
         Svg: require("@site/static/img/undraw_pay_online_re_aqe6.svg").default,
         description: (
             <>
-                Make cross-border payments seamless, anonymously and easy. Send, receive, and transact Stablecoins and Fiat such as EUR, GBP, USD with minimal fees and no hidden costs, and/or instantly convert them to your preferred currency.
+                Make cross-border payments seamless, anonymously and easy. Send, receive, and
+                transact Stablecoins and Fiat such as EUR, GBP, USD with minimal fees and no hidden
+                costs, and/or instantly convert them to your preferred currency.
             </>
         ),
     },

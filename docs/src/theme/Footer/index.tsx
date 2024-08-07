@@ -13,7 +13,7 @@ function Footer(): JSX.Element | null {
         return null;
     }
     const { copyright, links, logo, style } = footer;
-    const {disclaimer} = customFields;
+    const { disclaimer } = customFields;
     return (
         <FooterLayout
             style={style}

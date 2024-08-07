@@ -68,7 +68,7 @@ const config: Config = {
     ],
     themeConfig: {
         mermaid: {
-            theme: {light: "neutral", dark: "dark"},
+            theme: { light: "neutral", dark: "dark" },
         },
         colorMode: {
             defaultMode: "dark",
@@ -189,7 +189,8 @@ const config: Config = {
             copyright: `Copyright © ${new Date().getFullYear()} by Dao Finance. All rights reserved.`,
         },
         customFields: {
-            disclaimer: "The market for crypto assets and the purchase of crypto assets constitute a high risk. Those are subject to high fluctuations in value, and there is no allways real underlying asset except (stable coins). Declines in value or a rapid, complete loss of the money spent are possible at any time. Past performance is not a reliable indicator of future performance.",
+            disclaimer:
+                "The market for crypto assets and the purchase of crypto assets constitute a high risk. Those are subject to high fluctuations in value, and there is no allways real underlying asset except (stable coins). Declines in value or a rapid, complete loss of the money spent are possible at any time. Past performance is not a reliable indicator of future performance.",
         },
         prism: {
             theme: prismThemes.github,

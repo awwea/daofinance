@@ -15,4 +15,4 @@ The founder token pool always needs to be filled with capital first. This happen
 
 As soon as the Founder Pool is 100% full, the founders are accepted into DFI as its members and participate in the profits of the parent organization.
 
->[Please see also governance reference](/Features/governance)
+> [Please see also governance reference](/Features/governance)

@@ -10,7 +10,6 @@ slug: itro
 
 DAO Finance is a simple, open-source framework. It was popularized due to its minimum viable DAO design and the advent of rage-quit - that means for its members to exit DAO by exchanging their shares.
 
-
 ### Organization Timeline
 
 In 2020, we started DAOFINANCE with a vision to change the world's relationship with money for the better. A decade and 8 million code lines later, our goal is still the same — to give you the freedom to bank your way. Banking designed to empower you!
@@ -48,7 +47,6 @@ gitGraph
    branch dex
    commit id: "Develop (DEX)"
 ```
-
 
 ### Platform for nextgen finance
 

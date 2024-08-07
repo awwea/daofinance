@@ -9,9 +9,9 @@ A decentralized exchange (or DEX) is a peer-to-peer marketplace where transactio
 
 #### How do DEXs work?
 
-Unlike centralized exchanges like Binance, Coinbase, DEXs don’t allow for exchanges between fiat and crypto — instead, they exclusively trade cryptocurrency tokens for other cryptocurrency tokens. Via a centralized exchange (or CEX), you can trade fiat for crypto (and vice versa) or crypto-crypto pairs — say some of your bitcoin for ETH. You can also often make more advanced moves, like margin trades or setting limit orders. But all of these transactions are handled by the exchange itself via an “order book” that establishes the price for a particular cryptocurrency based on current buy and sell orders — the same method used by stock exchanges like Nasdaq. 
+Unlike centralized exchanges like Binance, Coinbase, DEXs don’t allow for exchanges between fiat and crypto — instead, they exclusively trade cryptocurrency tokens for other cryptocurrency tokens. Via a centralized exchange (or CEX), you can trade fiat for crypto (and vice versa) or crypto-crypto pairs — say some of your bitcoin for ETH. You can also often make more advanced moves, like margin trades or setting limit orders. But all of these transactions are handled by the exchange itself via an “order book” that establishes the price for a particular cryptocurrency based on current buy and sell orders — the same method used by stock exchanges like Nasdaq.
 
-Decentralized exchanges, on the other hand, are simply a set of smart contracts. They establish the prices of various cryptocurrencies against each algorithmically and use “liquidity pools” — in which investors lock funds in exchange for interest-like rewards — to facilitate trades. 
+Decentralized exchanges, on the other hand, are simply a set of smart contracts. They establish the prices of various cryptocurrencies against each algorithmically and use “liquidity pools” — in which investors lock funds in exchange for interest-like rewards — to facilitate trades.
 
 While transactions on a centralized exchange are recorded on that exchange’s internal database, DEX transactions are settled directly on the blockchain.
 
