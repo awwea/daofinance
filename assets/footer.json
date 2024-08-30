@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Developers",
+        "links": [
+            {
+                "text": "Documentation",
+                "url": "https://docs.daofinance.me/"
+            },
+            {
+                "text": "GitHub",
+                "url": "https://github.com/awwea/daofinance"
+            }
+        ]
+    },
+    {
+        "title": "Community",
+        "links": [
+            {
+                "text": "Twitter",
+                "url": "https://twitter.com/dfi"
+            },
+            {
+                "text": "Discord",
+                "url": "https://daofinance.me/discord"
+            },
+            {
+                "text": "Blog",
+                "url": "https://daofinance.me/blog"
+            }
+        ]
+    },
+    {
+        "title": "About DFI",
+        "links": [
+            {
+                "text": "About",
+                "url": "https://docs.daofinance.me"
+            }
+        ]
+    },
+    {
+        "title": "Partners",
+        "links": [
+            {
+                "text": "MetaSuites",
+                "url": "https://blocksec.com/metasuites"
+            },
+            {
+                "text": "Sourcify",
+                "url": "https://sourcify.dev/"
+            },
+            {
+                "text": "DRPC",
+                "url": "https://drpc.org?ref=559183"
+            },
+            {
+                "text": "BlockSec",
+                "url": "https://blocksec.com/"
+            }
+        ]
+    }
+]
