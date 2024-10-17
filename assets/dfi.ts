@@ -5,9 +5,10 @@ export const dfi = defineChain({
     name: "DFI",
     network: "dfi",
     nativeCurrency: {
+        name: "DFi",
         decimals: 18,
         symbol: "DFI",
-        name: "DFi",
+        totalSupply: 1000000000,
         icon: "https://raw.githubusercontent.com/awwea/daofinance/main/assets/symbol.png",
     },
     rpcUrls: {
@@ -27,7 +28,7 @@ export const dfi = defineChain({
     contracts: {
         multicall3: {
             address: "0xb05E36BfBfb313331ed9740B1D8E929555A92634",
-            blockCreated: 3,
+            blockCreated: 2,
         },
     },
 });
