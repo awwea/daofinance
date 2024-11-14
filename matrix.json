@@ -1,0 +1,149 @@
+{
+    "platform": {
+        "capital": 500000000,
+        "funder": 500000,
+        "features": {
+            "trading": {
+                "management": 0.01,
+                "performance": 0.3,
+                "commission": 0.35,
+                "period": "m",
+                "agio": 0.05,
+            },
+            "liquidity": {
+                "management": 0.01,
+                "performance": 0.3,
+                "commission": 0.35,
+                "period": "m",
+                "agio": 0.05,
+            },
+            "amf": {
+                "management": 0.01,
+                "performance": 0.3,
+                "commission": 0.35,
+                "period": "m",
+                "agio": 0.05,
+            },
+            "reit": {
+                "management": 0.01,
+                "performance": 0.3,
+                "commission": 0.35,
+                "period": "m",
+                "agio": 0.05,
+            },
+            "governance": {
+                "dividend": "quartal",
+                "funder_fill": 0.20,
+                "performance": 0.25,
+                "period": "y",
+            }
+        }
+    },
+    "commission": {
+        "trading": {
+            "rate": 0.03,
+            "overhead": {},
+            "pool": {
+                "rate": 0.03,
+                "condition": {
+                    "level": 6,
+                    "active": {
+                        "10000": 1
+                    }
+                }
+            }
+        },
+        "pool": {
+            "rate": 0.03,
+            "overhead": {},
+            "pool": {
+                "rate": 0.03,
+                "condition": {
+                    "level": 6,
+                    "active": {
+                        "10000": 1
+                    }
+                }
+            }
+        },
+        "governance": {
+            "rate": 0.03,
+            "overhead": {},
+            "pool": {
+                "rate": 0.03,
+                "condition": {
+                    "level": 6,
+                    "active": {
+                        "10000": 1
+                    }
+                }
+            }
+        }
+    },
+    "levels": {
+        "0": {
+            "amount": 0,
+            "factor": 0,
+            "shares": 0,
+            "rate": 0.03,
+            "name": "Start",
+            "color": "#ffff"
+        },
+        "1": {
+            "amount": 1000,
+            "factor": 5,
+            "shares": 0,
+            "rate": 0.04,
+            "name": "Silver",
+            "color": "#e9f1fc"
+        },
+        "2": {
+            "amount": 5000,
+            "factor": 2,
+            "shares": 10,
+            "rate": 0.05,
+            "name": "Gold",
+            "color": "#ffebaa"
+        },
+        "3": {
+            "amount": 10000,
+            "factor": 5,
+            "shares": 20,
+            "rate": 0.06,
+            "name": "Platinum",
+            "color": "#afe1f2"
+        },
+        "4": {
+            "amount": 25000,
+            "factor": 4,
+            "shares": 40,
+            "rate": 0.07,
+            "name": "Diamond",
+            "color": "#c1f4fb"
+        },
+        "5": {
+            "amount": 50000,
+            "factor": 6,
+            "shares": 70,
+            "rate": 0.08,
+            "name": "Elite",
+            "color": "#c7d2fe"
+        },
+        "6": {
+            "amount": 75000,
+            "factor": 8,
+            "shares": 90,
+            "rate": 0.09,
+            "name": "VIP",
+            "color": "#e9d5ff"
+        },
+        "7": {
+            "amount": 100000,
+            "factor": 9,
+            "shares": 90,
+            "rate": 0.10,
+            "name": "Premier",
+            "color": "#f0abfc"
+        }
+    }
+}
