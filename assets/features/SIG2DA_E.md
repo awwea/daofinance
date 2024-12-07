@@ -17,18 +17,17 @@ Discover DFI Signals: A cutting-edge feature by DAO Finance, designed to empower
 - **Available Markets**: Gate.Io, Binance, Kucoin
 
 - **Fees**:
-  - **Management Fee**: 1%
-  payable on contract start
+  - **Management Fee**: 1%, due on contract start
   - **Performance Fee**:
     - 30% for trading capital up to $100K,
-    - 25% for trading capital up to $500K,
-    - 22% for trading capital up to $900K,
-    payable on contract end within 24 hours, not applicable on the profits less then 2% per period.
+    - 26% for trading capital up to $500K,
+    - 23% for trading capital up to $1000K,
+    - 20% for trading capital from $1000K,
+    due on contract end within 24 hours, not applicable on the profit less then 2% per period
 
 - **Penalties**:
-  - 5% penalty for breaking trading contract rules
-  - Account suspension for 10 days and 10% penalty on recurring action
+  - 5% penalty for breaking trading contract rules on first event
+  - 10% penalty and account suspension for 10 days on recurring event
 
 - **Bonus**:
-  - 2% from performance fee for every active customer
-  
+  - 1% from performance fee for every active customer
