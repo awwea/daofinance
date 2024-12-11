@@ -7,27 +7,28 @@ Discover DFI Signals: A cutting-edge feature by DAO Finance, designed to empower
 - **Access In-Depth Analysis**: Gain insights from comprehensive market data and expert analysis
 - **Enhance Decision-Making**: Make informed decisions with confidence, backed by reliable data
 
-## Trading on the Customer's Managed Account
+### Managed Account
 
 - **Market**: Futures
-- **Trading contract**: 10 days
-- **Billing Period**: Every 10 days
+- **Trading contract**: 10 - 30 days with step of 10 days
+- **Billing Period**: Every 10 - 30 days
+- **Trading Capital**: from 25K fixed for contract period
+- **Available Exchanges**: Gate.Io, Binance, Kucoin
 - **API Permissions**: Trading only
-- **Capital**: from 25K fixed for contract period
-- **Available Markets**: Gate.Io, Binance, Kucoin
 
 - **Fees**:
-  - **Management Fee**: 1%, due on contract start
+  - **Management Fee**: 1% from initial capital, due on contract start
   - **Performance Fee**:
-    - 30% for trading capital up to $100K,
-    - 26% for trading capital up to $500K,
-    - 23% for trading capital up to $1000K,
-    - 20% for trading capital from $1000K,
+    - 30% for trading capital up to $100k,
+    - 26% for trading capital up to $500k,
+    - 23% for trading capital up to $1000k,
+    - 20% for trading capital from $1000k,
     due on contract end within 24 hours, not applicable on the profit less then 2% per period
 
 - **Penalties**:
-  - 5% penalty for breaking trading contract rules on first event
-  - 10% penalty and account suspension for 10 days on recurring event
+  - We reserve the right to charge interest at a rate of 3% per day on any outstanding fees
+  - A 1% penalty of the initial capital (minimum USD 500) will be applied for the first violation of trading contract rules
+  - A 2% penalty of the initial capital (minimum USD 5,000) will be applied for each recurring violation
 
 - **Bonus**:
-  - 1% from performance fee for every active customer
+  - A 1% discount on the performance fee will be granted for each active customer
